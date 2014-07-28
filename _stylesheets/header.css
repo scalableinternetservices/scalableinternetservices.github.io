@@ -2,19 +2,19 @@
 
 #logo {
   position: relative;
-  height: 30px;
-  width: 183px;
+  height: 60px;
+  width: 222px;
   margin: 0 auto;
   padding-top: 8px;
 }
 
 #logo a {
   display: block;
-  height: 30px;
-  width: 183px;
   text-indent: -999px;
+  width: 430px;
+  height: 138px;
   overflow: hidden;
-  background: url('../images/gh-training-logo-1x.png') no-repeat;
+  background: url('../images/ucsbcs.png') no-repeat;
 
   -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
   filter: alpha(opacity=85);
@@ -29,8 +29,8 @@ only screen and (        min-device-pixel-ratio: 2),
 only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
   #logo a {
-    background: url('../images/gh-training-logo-2x.png') no-repeat;
-    background-size: 183px 30px;
+    background: url('../images/ucsbcs.png') no-repeat;
+    background-size: 215px 59px;
   }
 }
 

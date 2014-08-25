@@ -48,7 +48,7 @@ img.headshot {
 /* Background Watermark */
 body::before{
 	content: "";
-  -webkit-mask-box-image: url(../backgrounds/github-mark.png) 100% 100% 0 0;
+  -webkit-mask-box-image: url(../backgrounds/ucsb-mark.png) 100% 100% 0 0;
   background: $brand-linkBlue;
   position: absolute;
   opacity: .08;

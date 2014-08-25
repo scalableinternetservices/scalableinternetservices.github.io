@@ -14,8 +14,8 @@
   width: 430px;
   height: 138px;
   overflow: hidden;
-  background: url('../images/ucsbcs.png') no-repeat;
-
+  background: url('../images/ucsbcs-1x.png') no-repeat;
+  pointer-events:none;
   -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
   filter: alpha(opacity=85);
   opacity: 0.90;
@@ -29,7 +29,7 @@ only screen and (        min-device-pixel-ratio: 2),
 only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
   #logo a {
-    background: url('../images/ucsbcs.png') no-repeat;
+    background: url('../images/ucsbcs-2x.png') no-repeat;
     background-size: 215px 59px;
   }
 }

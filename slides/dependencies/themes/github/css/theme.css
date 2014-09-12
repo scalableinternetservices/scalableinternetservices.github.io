@@ -51,14 +51,16 @@ img.headshot {
 /* Background Watermark */
 body::before {
   content: "";
-  -webkit-mask-box-image: url(../backgrounds/github-mark.png) 100% 100% 0 0;
-  background: #4183c4;
+  background: url(../backgrounds/ucsb-mark.png) ;
   position: absolute;
-  opacity: .08;
-  height: 30%;
-  width: 7%;
-  left: 91%;
-  top: 2%; }
+  opacity: 0.2;
+  height: 100%;
+  width: 50%;
+  left: 80%;
+  top: 2%;
+  background-size: 30%;
+  background-repeat: no-repeat;
+}
 
 /* Authorship/Info footer*/
 body::after {

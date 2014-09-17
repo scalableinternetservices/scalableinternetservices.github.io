@@ -9,13 +9,13 @@ showinnav: true
   <h2>Objective</h2>
 
   <p>
-  The goal of the projects is to gain hands-on experience in building and
+  The goal of the project is to gain hands-on experience in building and
   deploying a scalable web service on the Internet.  Using the latest web
   technologies while learning how to tackle the scalability and
-  fault-tolerance concerns. This is a "learn by doing" course: course
-  projects will form the primary focus of the course with the lectures and
-  discussion of research papers providing background material. Projects
-  will be conducted in agile teams, and students will build their own
+  fault-tolerance concerns. This is a "learn by doing" course: the course
+  project will form the primary focus of the course with the lectures and
+  discussion of research papers providing background material. Each project
+  will be conducted in an agile team where students will build their own
   scalable, redundant web site using fundamental web technologies and the
   Ruby on Rails framework.  
   </p>

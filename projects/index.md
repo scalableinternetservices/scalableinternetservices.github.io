@@ -36,7 +36,7 @@ showinnav: true
     <li> YCombinator inspired: YC <a href="http://www.ycombinator.com/rfs/">Request for Startups</a> Implement some portion of one of the YCombinator "Startup ideas we would like to fund" </li>
     <li> 
     Government data project. A system that uses the large amounts of
-    data at <a hgref="http://data.gov">data.gov</a> or the <a href="http://aws.amazon.com/publicdatasets/">amazon public data sets</a>, see the <a href="http://sunlightfoundation.com/projects/">sunlight
+    data at <a href="http://data.gov">data.gov</a> or the <a href="http://aws.amazon.com/publicdatasets/">amazon public data sets</a>, see the <a href="http://sunlightfoundation.com/projects/">sunlight
       foundation</a> projects for some ideas.
     </li>
     <li>
@@ -72,17 +72,17 @@ showinnav: true
       <li>Install Rails</li>
       <li>Learn Ruby</li>
       <li>Do Ruby Koans</li>
-      <li>Learn Rails.</li>
-      <li>Read Chapters one through five.</li>
+      <li>Learn Rails</li>
+      <li>Read Chapters one through five</li>
     </ul>
     </li>
 
     <li>
     <b>Sprint 0. Starts Oct 15, 2014.</b>
     <ul>
-      <li>Read chapters six through seventeen.</li>
+      <li>Read chapters six through seventeen</li>
       <li>Learn TDD</li>
-      <li>Learn Pairing.</li>
+      <li>Learn Pairing</li>
     </ul>
     </li>
 
@@ -91,10 +91,10 @@ showinnav: true
     <ul>
       <li>Form Groups</li>
       <li>Decide on Projects</li>
-      <li>Basic user stories and page flow diagram.</li>
-      <li>Basic project planning.</li>
-      <li>Enter stories in pivotal tracker.</li>
-      <li>Learn EC2 and Amazon Web Console.</li>
+      <li>Basic user stories and page flow diagram</li>
+      <li>Basic project planning</li>
+      <li>Enter stories in pivotal tracker</li>
+      <li>Learn EC2 and Amazon Web Console</li>
     </ul>
     </li>
 
@@ -102,19 +102,19 @@ showinnav: true
     <li>
     <b>Sprint 2: Starts Oct 29, 2014.</b>
     <ul>
-      <li>Implement initial set of functionality.</li>
-      <li>Implement user accounts and authentication.</li>
-      <li>Use small dataset for development.</li>
+      <li>Implement initial set of functionality</li>
+      <li>Implement user accounts and authentication</li>
+      <li>Use small dataset for development</li>
       <li>Use MySQL database</li>
-      <li>Demo your web site on an instance of Amazon's Elastic Compute Cloud.</li>
+      <li>Demo your web site on an instance of Amazon's Elastic Compute Cloud</li>
     </ul>
     </li>
 
     <li>
     <b>Sprint 3: Starts Nov 5, 2014.</b>
     <ul>
-      <li>Implement next set of functionality.</li>
-      <li>Have capistrano deployment scripts to automate loading the production database and deploying production code.</li>
+      <li>Implement next set of functionality</li>
+      <li>Have capistrano deployment scripts to automate loading the production database and deploying production code</li>
     </ul>
     </li>
 
@@ -122,9 +122,9 @@ showinnav: true
     <li>
     <b>Sprint 4: Starts Nov 12, 2014.</b>
     <ul>
-      <li>Finish implementing general functionality.</li>
-      <li>Describe the "critical path" for scalability, which is the sequence of pages that you expect most users to go through. This is the set of pages that you will optimize, scale and benchmark.</li>
-      <li>Create medium-large dataset (about 10,000 records).</li>
+      <li>Finish implementing general functionality</li>
+      <li>Describe the "critical path" for scalability, which is the sequence of pages that you expect most users to go through. This is the set of pages that you will optimize, scale and benchmark</li>
+      <li>Create medium-large dataset (about 10,000 records)</li>
     </ul>
     </li>
 
@@ -132,9 +132,9 @@ showinnav: true
     <li>
     <b>Sprint 5: Starts Nov 19, 2014.</b>
     <ul>
-      <li>Fully implement the features that are exercised by the "critical path".</li>
-      <li>It is important that the pages have all the elements/data required, which ensures that all the database accesses that need to occur actually do occur.</li>
-      <li>For each of the critical sequences, list the database operations that are issued in the production environment.</li>
+      <li>Fully implement the features that are exercised by the "critical path"</li>
+      <li>It is important that the pages have all the elements/data required, which ensures that all the database accesses that need to occur actually do occur</li>
+      <li>For each of the critical sequences, list the database operations that are issued in the production environment</li>
     </ul>
     </li>
 
@@ -142,13 +142,13 @@ showinnav: true
     <li>
     <b>Sprint 6: Starts Nov 26, 2014.</b>
     <ul>
-      <li>Create large dataset (greater than 100,000 records).</li> 
-      <li>Launch a load-generator instance on EC2 and use httperf on it to load-up your web site. Plot response time (sec/req) and throughput (req/sec) as you increase the load.</li>
-      <li>Push the envelope using a single server without compromising scalability.</li>
-      <li>Run multiple instances and test the scalability of your system.</li>
-      <li>Begin scaling experiments and optimizations. Document what you learn.</li>
-      <li>Continue to optimize and document results.</li>
-      <li>Implement caching and architectural changes to eliminate bottlenecks (database, application, http), eventual consistency, etc.</li>
+      <li>Create large dataset (greater than 100,000 records)</li>
+      <li>Launch a load-generator instance on EC2 and use httperf on it to load-up your web site. Plot response time (sec/req) and throughput (req/sec) as you increase the load</li>
+      <li>Push the envelope using a single server without compromising scalability</li>
+      <li>Run multiple instances and test the scalability of your system</li>
+      <li>Begin scaling experiments and optimizations. Document what you learn</li>
+      <li>Continue to optimize and document results</li>
+      <li>Implement caching and architectural changes to eliminate bottlenecks (database, application, http), eventual consistency, etc</li>
     </ul>
     </li>
 
@@ -156,11 +156,11 @@ showinnav: true
     <li>
     <b>Sprint 7: Starts Dec 3, 2014.</b>
     <ul>
-      <li>Final performance experiments.</li>
-      <li>Document measurements.</li>
-      <li>Test for Availability.</li>
-      <li>Writeup results on team page.</li>
-      <li>Prepare final presentation.</li>
+      <li>Final performance experiments</li>
+      <li>Document measurements</li>
+      <li>Test for Availability</li>
+      <li>Writeup results on team page</li>
+      <li>Prepare final presentation</li>
     </ul>
     </li>
 
@@ -168,7 +168,7 @@ showinnav: true
     <li>
     <b>Final Presentation date TBD</b>
     <ul>
-      <li>Final Presentations.</li>
+      <li>Final Presentations</li>
     </ul>
     </li>
 

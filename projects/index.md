@@ -40,16 +40,12 @@ showinnav: true
       foundation</a> projects for some ideas.
     </li>
     <li>
-    A meta review system that gathers reviews from numerous sources across
-    the web and assigns them credibility based on votes so that a user can
-    see the most credible reviews for any item.
+      Leverage the data from the <a href="http://developer.nytimes.com/docs"> New York Times Developer
+      APIs </a> in order to build something interesting.  They have APIs
+      convering geography, movie reviews and more.
     </li>
     <li>
-    Popularity based recommendation engine. A system that gathers
-    "popularity" information from sources like reddit, LinkedIn, Facebook,
-    Google page rank, etc. and correlates them so that they can be used as a
-    recommendation engine for people with the same "popularity" index
-    (music, movies).
+      
     </li>
     <li>
     Stock trade advisor. A system that gathers information about stocks,

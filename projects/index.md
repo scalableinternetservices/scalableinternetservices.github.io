@@ -45,7 +45,8 @@ showinnav: true
       convering geography, movie reviews and more.
     </li>
     <li>
-      
+      Embrace the sharing economy!  Build a time-sharing app for pets.
+      Own 30% of a dog.
     </li>
     <li>
     Stock trade advisor. A system that gathers information about stocks,
@@ -67,7 +68,7 @@ showinnav: true
     <ul>
       <li>Install Rails</li>
       <li>Learn Ruby</li>
-      <li>Do Ruby Koans</li>
+      <li>Do <a href="http://www.codecademy.com/en/tracks/ruby">Ruby Code Academy</a></li>
       <li>Learn Rails</li>
       <li>Read Chapters one through five</li>
     </ul>

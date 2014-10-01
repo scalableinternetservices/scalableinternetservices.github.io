@@ -10,11 +10,11 @@ showinnav: true
 <section>
 <p>
 <b>October 2, 2014</br></b>
-First hour: <a href="tbd.html">Introduction to Scalable Internet
-Services</a>
+First hour: <b href="tbd.html">Introduction to Scalable Internet
+Services</b>
 </br>
 Second hour: 
-<a href="tbd.html">The lifecycle of a request on the web</a>
+<b href="tbd.html">The lifecycle of a request on the web</b>
 </br>
 </p>
 </section>
@@ -24,10 +24,10 @@ Second hour:
 <section>
 <p>
 <b>October 7, 2014</br></b>
-First hour: <a href="tbd.html">Introduction to HTTP, HTML, CSS</a>
+First hour: <b href="tbd.html">Introduction to HTTP, HTML, CSS</b>
 </br>
-Second hour: <a href="tbd.html">Introduction to JavaScript and
-JSON</a>
+Second hour: <b href="tbd.html">Introduction to JavaScript and
+JSON</b>
 </br>
 </section>
 </ul>
@@ -37,8 +37,8 @@ JSON</a>
 <p>
 <b>October 9, 2014</br></b>
 Guest lecture by Ross Hale, Engineering Director at Pivotal Labs. <br>
-<a href="tbd.html">Working Software Quickly: Agile,
-Scrum & Pairing, TDD, CI, source control </a></br>
+<b href="tbd.html">Working Software Quickly: Agile,
+Scrum & Pairing, TDD, CI, source control </b></br>
 </p>
 </section>
 </ul>
@@ -50,8 +50,8 @@ Scrum & Pairing, TDD, CI, source control </a></br>
 <section>
 <p>
 <b>October 14, 2014</br></b>
-First hour: <a href="tbd.html">Efficient Use of Server Resources: App Server Architectures</a></br>
-Second hour: <a href="tbd.html">Efficient use of Server Resources: App Server Architectures, cont. </a></br>
+First hour: <b href="tbd.html">Efficient Use of Server Resources: App Server Architectures</b></br>
+Second hour: <b href="tbd.html">Efficient use of Server Resources: App Server Architectures, cont. </b></br>
 </p>
 </section>
 </ul>
@@ -60,8 +60,8 @@ Second hour: <a href="tbd.html">Efficient use of Server Resources: App Server Ar
 <section>
 <p>
 <b>October 16, 2014</br></b>
-First hour: <a href="tbd.html">High Availability: Load Balancing</a></br>
-Second hour: <a href="tbd.html">High Availability: A Share-Nothing Web Stack</a></br>
+First hour: <b href="tbd.html">High Availability: Load Balancing</b></br>
+Second hour: <b href="tbd.html">High Availability: A Share-Nothing Web Stack</b></br>
 </p>
 </section>
 </ul>
@@ -72,8 +72,8 @@ Second hour: <a href="tbd.html">High Availability: A Share-Nothing Web Stack</a>
 <section>
 <p>
 <b>October 21, 2014</br></b>
-First hour: <a href="tbd.html">Low Latency: All About Caching on the Server</a></br>
-Second hour: <a href="tbd.html">Low Latency: All About Caching on the Client</a></br>
+First hour: <b href="tbd.html">Low Latency: All About Caching on the Server</b></br>
+Second hour: <b href="tbd.html">Low Latency: All About Caching on the Client</b></br>
 </p>
 </section>
 </ul>
@@ -83,8 +83,8 @@ Second hour: <a href="tbd.html">Low Latency: All About Caching on the Client</a>
 <section>
 <p>
 <b>October 23, 2014</br></b>
-First hour: <a href="tbd.html">A Stable Data Layer: Relational Databases</a></br>
-Second hour: <a href="tbd.html">A Stable Data Layer: Database Concurrency Control</a></br>
+First hour: <b href="tbd.html">A Stable Data Layer: Relational Databases</b></br>
+Second hour: <b href="tbd.html">A Stable Data Layer: Database Concurrency Control</b></br>
 </p>
 </section>
 </ul>
@@ -94,8 +94,8 @@ Second hour: <a href="tbd.html">A Stable Data Layer: Database Concurrency Contro
 <section>
 <p>
 <b>October 28, 2014</br></b>
-First hour: <a href="tbd.html">Scaling Out: RDBMSes and Sharding, SOA</a></br>
-Second hour: <a href="tbd.html">Scaling Out: Scaling Reads vs. Scaling Writes</a></br>
+First hour: <b href="tbd.html">Scaling Out: RDBMSes and Sharding, SOA</b></br>
+Second hour: <b href="tbd.html">Scaling Out: Scaling Reads vs. Scaling Writes</b></br>
 </p>
 </section>
 </ul>
@@ -106,8 +106,8 @@ Second hour: <a href="tbd.html">Scaling Out: Scaling Reads vs. Scaling Writes</a
 <section>
 <p>
 <b>October 30, 2014</br></b>
-First hour: <a href="tbd.html">Security basics: intro to HTTPS</a></br>
-Second hour: <a href="tbd.html">Security basics: Firewalls, Sessions, XSS, CSRF</a></br>
+First hour: <b href="tbd.html">Security basics: intro to HTTPS</b></br>
+Second hour: <b href="tbd.html">Security basics: Firewalls, Sessions, XSS, CSRF</b></br>
 </p>
 </section>
 </ul>
@@ -118,7 +118,7 @@ Second hour: <a href="tbd.html">Security basics: Firewalls, Sessions, XSS, CSRF<
 <p>
 <b>November 4, 2014</br></b>
 Guest Lecture by Josep Blanquer, Chief Architect, Rightscale. <br>
-<a href="tbd.html"> Beyond SQL: Non-Relational Data Stores.</a></br>
+<b href="tbd.html"> Beyond SQL: Non-Relational Data Stores.</b></br>
 </p>
 </section>
 </ul>
@@ -128,8 +128,8 @@ Guest Lecture by Josep Blanquer, Chief Architect, Rightscale. <br>
 <section>
 <p>
 <b>November 6, 2014</br></b>
-First hour: <a href="tbd.html">TBD</a></br>
-Second hour: <a href="tbd.html">TBD</a></br>
+First hour: <b href="tbd.html">TBD</b></br>
+Second hour: <b href="tbd.html">TBD</b></br>
 </p>
 </section>
 </ul>
@@ -149,7 +149,7 @@ Second hour: <a href="tbd.html">TBD</a></br>
 <p>
 <b>November 13, 2014</br></b>
 Guest Lecture - Colin Kelley, CTO, Invoca<br> 
-<a href="tbd.html">What I've Learned about Scalable Apps</a></br>
+<b href="tbd.html">What I've Learned about Scalable Apps</b></br>
 </p>
 </section>
 </ul>
@@ -159,8 +159,8 @@ Guest Lecture - Colin Kelley, CTO, Invoca<br>
 <section>
 <p>
 <b>November 18, 2014</br></b>
-First hour: <a href="tbd.html">Looking Forward: Structured Data and Client-Side Rendering.  RESTful Web Services.</a></br>
-Second hour: <a href="tbd.html">Looking Forward: Optimizing for Mobile Networks </a></br>
+First hour: <b href="tbd.html">Looking Forward: Structured Data and Client-Side Rendering.  RESTful Web Services.</b></br>
+Second hour: <b href="tbd.html">Looking Forward: Optimizing for Mobile Networks </b></br>
 </p>
 </section>
 </ul>
@@ -170,8 +170,8 @@ Second hour: <a href="tbd.html">Looking Forward: Optimizing for Mobile Networks 
 <section>
 <p>
 <b>November 20, 2014</br></b>
-First hour: <a href="tbd.html">Looking Forward: HTTP 2.0 and SPDY</a></br>
-Second hour: <a href="tbd.html">Looking Forward: DevOps, Docker & Continuous Deployment </a></br>
+First hour: <b href="tbd.html">Looking Forward: HTTP 2.0 and SPDY</b></br>
+Second hour: <b href="tbd.html">Looking Forward: DevOps, Docker & Continuous Deployment </b></br>
 </p>
 </section>
 </ul>
@@ -182,7 +182,7 @@ Second hour: <a href="tbd.html">Looking Forward: DevOps, Docker & Continuous Dep
 <p>
 <b>November 25, 2014</br></b>
 Guest Lecture: Darren Mutz, Founder, Red Aspen Software<br>
-<a href="tbd.html">How to build a content distribution network</a></br>
+<b href="tbd.html">How to build a content distribution network</b></br>
 </p>
 </section>
 </ul>
@@ -202,8 +202,8 @@ Guest Lecture: Darren Mutz, Founder, Red Aspen Software<br>
 <section>
 <p>
 <b> December 2, 2014</br></b>
-First hour: <a href="tbd.html">Looking Forward: Thicker Clients: asm.js</a></br>
-Second hour: <a href="tbd.html">Looking Forward: Thicker Clients: WebRTC & WebSockets </a></br>
+First hour: <b href="tbd.html">Looking Forward: Thicker Clients: asm.js</b></br>
+Second hour: <b href="tbd.html">Looking Forward: Thicker Clients: WebRTC & WebSockets </b></br>
 </p>
 </section>
 </ul>
@@ -214,7 +214,7 @@ Second hour: <a href="tbd.html">Looking Forward: Thicker Clients: WebRTC & WebSo
 <section>
 <p>
 <b>December 4, 2014</br></b>
-Guest Lecture - <a href="tbd.html">TBD</a></br>
+Guest Lecture - <b href="tbd.html">TBD</b></br>
 </p>
 </section>
 </ul>

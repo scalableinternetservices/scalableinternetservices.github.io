@@ -10,11 +10,11 @@ showinnav: true
 <section>
 <p>
 <b>October 2, 2014</br></b>
-First hour: <b href="tbd.html">Introduction to Scalable Internet
-Services</b>
+First hour: <a href="lecture_10_02.pdf">Introduction to Scalable Internet
+Services</a>
 </br>
 Second hour: 
-<b href="tbd.html">The lifecycle of a request on the web</b>
+<a href="lecture_10_02.pdf">The lifecycle of a request on the web</a>
 </br>
 </p>
 </section>

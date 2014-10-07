@@ -24,10 +24,9 @@ Second hour:
 <section>
 <p>
 <b>October 7, 2014</br></b>
-First hour: <b href="tbd.html">Introduction to HTTP, HTML, CSS</b>
+First hour: <b href="tbd.html">Introduction to HTTP</b>
 </br>
-Second hour: <b href="tbd.html">Introduction to JavaScript and
-JSON</b>
+Second hour: <b href="tbd.html">Introduction to HTML and CSS</b>
 </br>
 </section>
 </ul>

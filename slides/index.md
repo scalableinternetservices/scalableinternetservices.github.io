@@ -24,9 +24,9 @@ Second hour:
 <section>
 <p>
 <b>October 7, 2014</br></b>
-First hour: <b href="tbd.html">Introduction to HTTP</b>
+First hour: <b href="lecture_10_07.pdf">Introduction to HTTP</b>
 </br>
-Second hour: <b href="tbd.html">Introduction to HTML and CSS</b>
+Second hour: <b href="lecture_10_07.pdf">Introduction to HTML and CSS</b>
 </br>
 </section>
 </ul>

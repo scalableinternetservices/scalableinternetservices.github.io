@@ -37,7 +37,8 @@ Second hour: <b href="lecture_10_07.pdf">Introduction to HTML and CSS</b>
 <b>October 9, 2014</br></b>
 Guest lecture by Ross Hale, Engineering Director at Pivotal Labs. <br>
 <b href="tbd.html">Working Software Quickly: Agile,
-Scrum & Pairing, TDD, CI, source control </b></br>
+Scrum & Pairing, TDD, CI, source control </b><br>
+<a href="tdd_example.rb">TDD Excercise</a>
 </p>
 </section>
 </ul>

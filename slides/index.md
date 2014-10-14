@@ -50,8 +50,8 @@ Scrum & Pairing, TDD, CI, source control </b><br>
 <section>
 <p>
 <b>October 14, 2014</br></b>
-First hour: <b href="tbd.html">Efficient Use of Server Resources: App Server Architectures</b></br>
-Second hour: <b href="tbd.html">Efficient use of Server Resources: App Server Architectures, cont. </b></br>
+First hour: <a href="lecture_10_14.pdf">Efficient Use of Server Resources: App Server Architectures</a></br>
+Second hour: <a href="lecture_10_14.pdf">Efficient use of Server Resources: App Server Architectures, cont. </a></br>
 </p>
 </section>
 </ul>

@@ -70,14 +70,14 @@ showinnav: true
       <li>Learn Ruby</li>
       <li>Do <a href="http://www.codecademy.com/en/tracks/ruby">Ruby Code Academy</a></li>
       <li>Learn Rails</li>
-      <li>Read Chapters one through six in Agile Web Development with Rails</li>
+      <li>Read Chapters one through eight in Agile Web Development with Rails</li>
     </ul>
     </li>
 
     <li>
     <b>Sprint 0. Starts Oct 15, 2014.</b>
     <ul>
-      <li>Read chapters seven through seventeen in Agile Web Development with Rails</li>
+      <li>Read chapters nine through seventeen in Agile Web Development with Rails</li>
       <li>Learn TDD</li>
       <li>Learn Pairing</li>
     </ul>

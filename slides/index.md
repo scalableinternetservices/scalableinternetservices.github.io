@@ -59,11 +59,11 @@ Second hour: <a href="lecture_10_14.pdf">Efficient use of Server Resources: App 
 <ul>
 <section>
 <p>
-<b>October 16, 2014</br></b>
-Pre-reading: <a href="http://www.ics.uci.edu/~cs230/reading/DLB.pdf">Dynamic Load Balancing on Web-server Systems. </a> Cardellini, Colajanni, Yu.
+<b>October 16, 2014<br></b>
+Pre-reading: <a href="http://www.ics.uci.edu/~cs230/reading/DLB.pdf">Dynamic Load Balancing on Web-server Systems. </a> Cardellini, Colajanni, Yu.<br>
 
-First hour: <b href="tbd.html">High Availability: Load Balancing</b></br>
-Second hour: <b href="tbd.html">High Availability: A Share-Nothing Web Stack</b></br>
+First hour: <b href="tbd.html">High Availability: Load Balancing</b><br>
+Second hour: <b href="tbd.html">High Availability: A Share-Nothing Web Stack</b><br>
 </p>
 </section>
 </ul>

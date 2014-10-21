@@ -91,7 +91,6 @@ showinnav: true
       <li>Basic user stories and page flow diagram</li>
       <li>Basic project planning</li>
       <li>Enter stories in pivotal tracker</li>
-      <li>Learn EC2 and Amazon Web Console</li>
     </ul>
     </li>
 
@@ -104,6 +103,7 @@ showinnav: true
       <li>Use small dataset for development</li>
       <li>Use MySQL database</li>
       <li>Demo your web site on an instance of Amazon's Elastic Compute Cloud</li>
+      <li>Learn EC2 and Amazon Web Console</li>
     </ul>
     </li>
 

@@ -74,8 +74,8 @@ Second hour: <a href="lecture_10_16.pdf">High Availability: A Share-Nothing Web 
 <section>
 <p>
 <b>October 21, 2014</br></b>
-First hour: <b href="lecture_10_21.pdf">Low Latency: All About Caching on the Server</b></br>
-Second hour: <b href="lecture_10_21.pdf">Low Latency: All About Caching on the Client</b></br>
+First hour: <a href="lecture_10_21.pdf">Low Latency: All About Caching on the Server</a></br>
+Second hour: <a href="lecture_10_21.pdf">Low Latency: All About Caching on the Client</a></br>
 </p>
 </section>
 </ul>

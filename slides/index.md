@@ -130,8 +130,7 @@ Guest Lecture by Josep Blanquer, Chief Architect, Rightscale. <br>
 <section>
 <p>
 <b>November 6, 2014</br></b>
-First hour: <b href="tbd.html">TBD</b></br>
-Second hour: <b href="tbd.html">TBD</b></br>
+Citrix Online Data Center Tour
 </p>
 </section>
 </ul>

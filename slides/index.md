@@ -84,7 +84,7 @@ Second hour: <a href="lecture_10_21.pdf">Low Latency: All About Caching on the C
 <section>
 <p>
 <b>October 23, 2014</br></b>
-First hour: <a href="lecture_10_21.pdf">A Stable Data Layer: Relational Databases</a></br>
+First hour: <a href="lecture_10_23.pdf">A Stable Data Layer: Relational Databases</a></br>
 Second hour: <b href="tbd.html">User Authentication with Devise</b></br>
 </p>
 </section>

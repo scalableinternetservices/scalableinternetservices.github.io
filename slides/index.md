@@ -95,6 +95,17 @@ Second hour: <b href="tbd.html">User Authentication with Devise</b></br>
 <section>
 <p>
 <b>October 28, 2014</br></b>
+First hour: <a href="lecture_10_28.pdf">A Stable Data Layer: Concurrency Control in Rails</a></br>
+Second hour: <a href="lecture_10_28.pdf">A Stable Data Layer: Query Analysis</a></br>
+</p>
+</section>
+</ul>
+
+
+<ul>
+<section>
+<p>
+<b>October 30, 2014</br></b>
 First hour: <b href="tbd.html">Scaling Out: RDBMSes and Sharding, SOA</b></br>
 Second hour: <b href="tbd.html">Scaling Out: Scaling Reads vs. Scaling Writes</b></br>
 </p>
@@ -102,7 +113,7 @@ Second hour: <b href="tbd.html">Scaling Out: Scaling Reads vs. Scaling Writes</b
 </ul>
 
 
-
+<!--
 <ul>
 <section>
 <p>
@@ -112,7 +123,7 @@ Second hour: <b href="tbd.html">Security basics: Firewalls, Sessions, XSS, CSRF<
 </p>
 </section>
 </ul>
-
+-->
 
 <ul>
 <section>

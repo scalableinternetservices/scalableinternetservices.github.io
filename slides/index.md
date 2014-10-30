@@ -106,8 +106,8 @@ Second hour: <a href="lecture_10_28.pdf">A Stable Data Layer: Query Analysis</a>
 <section>
 <p>
 <b>October 30, 2014</br></b>
-First hour: <b href="tbd.html">Scaling Out: RDBMSes and Sharding, SOA</b></br>
-Second hour: <b href="tbd.html">Scaling Out: Scaling Reads vs. Scaling Writes</b></br>
+First hour: <b href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding, SOA</b></br>
+Second hour: <b href="lecture_10_30.pdf">Scaling Out: Scaling Reads vs. Scaling Writes</b></br>
 </p>
 </section>
 </ul>
@@ -129,6 +129,10 @@ Second hour: <b href="tbd.html">Security basics: Firewalls, Sessions, XSS, CSRF<
 <section>
 <p>
 <b>November 4, 2014</br></b>
+Pre-reading: <br>
+<a
+href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP 12 years later</a> by Eric Brewer<br>
+<a href="vogels.pdf">Eventually Consistent</a> by Werner Vogels<br>
 Guest Lecture by Josep Blanquer, Chief Architect, Rightscale. <br>
 <b href="tbd.html"> Beyond SQL: Non-Relational Data Stores.</b></br>
 </p>

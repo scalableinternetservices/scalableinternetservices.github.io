@@ -129,9 +129,9 @@ Second hour: <b href="tbd.html">Security basics: Firewalls, Sessions, XSS, CSRF<
 <section>
 <p>
 <b>November 4, 2014</br></b>
-Pre-reading: <br>
+Pre-reading: 
 <a
-href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP 12 years later</a> by Eric Brewer<br>
+href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP 12 years later</a> by Eric Brewer, 
 <a href="vogels.pdf">Eventually Consistent</a> by Werner Vogels<br>
 Guest Lecture by Josep Blanquer, Chief Architect, Rightscale. <br>
 <b href="tbd.html"> Beyond SQL: Non-Relational Data Stores.</b></br>

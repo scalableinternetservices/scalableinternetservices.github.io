@@ -106,8 +106,8 @@ Second hour: <a href="lecture_10_28.pdf">A Stable Data Layer: Query Analysis</a>
 <section>
 <p>
 <b>October 30, 2014</br></b>
-First hour: <b href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding, SOA</b></br>
-Second hour: <b href="lecture_10_30.pdf">Scaling Out: Scaling Reads vs. Scaling Writes</b></br>
+First hour: <a href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding, SOA</a></br>
+Second hour: <a href="lecture_10_30.pdf">Scaling Out: Scaling Reads vs. Scaling Writes</a></br>
 </p>
 </section>
 </ul>

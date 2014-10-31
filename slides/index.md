@@ -144,7 +144,11 @@ Guest Lecture by Josep Blanquer, Chief Architect, Rightscale. <br>
 <section>
 <p>
 <b>November 6, 2014</br></b>
-Citrix Online Data Center Tour
+Citrix Online Data Center Tour<br>
+Please be on time at 1pm.
+7414 Hollister Avenue<br>
+Goleta, CA 93117<br>
+<a href="col_location.pdf"> Click here to see where to meet. </a>
 </p>
 </section>
 </ul>

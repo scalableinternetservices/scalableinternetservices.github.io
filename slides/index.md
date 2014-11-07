@@ -113,17 +113,6 @@ Second hour: <a href="lecture_10_30.pdf">Scaling Out: Scaling Reads vs. Scaling 
 </ul>
 
 
-<!--
-<ul>
-<section>
-<p>
-<b>October 30, 2014</br></b>
-First hour: <b href="tbd.html">Security basics: intro to HTTPS</b></br>
-Second hour: <b href="tbd.html">Security basics: Firewalls, Sessions, XSS, CSRF</b></br>
-</p>
-</section>
-</ul>
--->
 
 <ul>
 <section>
@@ -163,12 +152,13 @@ Goleta, CA 93117<br>
 </section>
 </ul>
 
+
 <ul>
 <section>
 <p>
 <b>November 13, 2014</br></b>
-Guest Lecture - Colin Kelley, CTO, Invoca<br> 
-<b href="tbd.html">What I've Learned about Scalable Apps</b></br>
+First hour: <b href="tbd.html">Security basics: intro to HTTPS</b></br>
+Second hour: <b href="tbd.html">Security basics: Firewalls, Sessions, XSS, CSRF</b></br>
 </p>
 </section>
 </ul>
@@ -184,13 +174,12 @@ Second hour: <b href="tbd.html">Looking Forward: Optimizing for Mobile Networks 
 </section>
 </ul>
 
-
 <ul>
 <section>
 <p>
 <b>November 20, 2014</br></b>
-First hour: <b href="tbd.html">Looking Forward: HTTP 2.0 and SPDY</b></br>
-Second hour: <b href="tbd.html">Looking Forward: DevOps, Docker & Continuous Deployment </b></br>
+Guest Lecture - Colin Kelley, CTO, Invoca<br> 
+<b href="tbd.html">What I've Learned about Scalable Apps</b></br>
 </p>
 </section>
 </ul>
@@ -227,13 +216,12 @@ Second hour: <b href="tbd.html">Looking Forward: Thicker Clients: WebRTC & WebSo
 </section>
 </ul>
 
-
-
 <ul>
 <section>
 <p>
 <b>December 4, 2014</br></b>
-Guest Lecture - <b href="tbd.html">TBD</b></br>
+First hour: <b href="tbd.html">Looking Forward: HTTP 2.0 and SPDY</b></br>
+Second hour: <b href="tbd.html">Looking Forward: DevOps, Docker & Continuous Deployment </b></br>
 </p>
 </section>
 </ul>

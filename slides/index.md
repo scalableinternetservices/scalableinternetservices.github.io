@@ -157,8 +157,8 @@ Goleta, CA 93117<br>
 <section>
 <p>
 <b>November 13, 2014</br></b>
-First hour: <a href="lecture_11_13.pdf">Security basics: intro to HTTPS</b></br>
-Second hour: <a href="lecture_11_13.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</b></br>
+First hour: <a href="lecture_11_13.pdf">Security basics: intro to HTTPS</a></br>
+Second hour: <a href="lecture_11_13.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</a></br>
 </p>
 </section>
 </ul>

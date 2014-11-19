@@ -168,8 +168,8 @@ Second hour: <a href="lecture_11_13.pdf">Security basics: Firewalls, XSS, CSRF, 
 <section>
 <p>
 <b>November 18, 2014</br></b>
-First hour: <a href="lecture_11_17.pdf">Looking Forward: Client-side Renaissance.</b></br>
-Second hour: <b href="lecture_11_17.pdf">Looking Forward:   Structured Data and Client-Side MVC, LocalStorage</b></br>
+First hour: <a href="lecture_11_17.pdf">Looking Forward: Client-side Renaissance.</a></br>
+Second hour: <a href="lecture_11_17.pdf">Looking Forward:   Structured Data and Client-Side MVC, LocalStorage</a></br>
 </p>
 </section>
 </ul>

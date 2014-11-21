@@ -179,7 +179,7 @@ Second hour: <a href="lecture_11_17.pdf">Looking Forward:   Structured Data and 
 <p>
 <b>November 20, 2014</br></b>
 Guest Lecture - Colin Kelley, CTO, Invoca<br> 
-<b href="tbd.html">What I've Learned about Scalable Apps</b></br>
+<a href="kelley.pdf">What I've Learned about Scalable Apps</a></br>
 </p>
 </section>
 </ul>

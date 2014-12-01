@@ -190,7 +190,7 @@ Guest Lecture - Colin Kelley, CTO, Invoca<br>
 <p>
 <b>November 25, 2014</br></b>
 Guest Lecture: Darren Mutz, Founder, Red Aspen Software<br>
-<b href="tbd.html">How to build a content distribution network</b></br>
+<b href="tbd.html">Technical Challenges in Content Delivery Networks</b></br>
 </p>
 </section>
 </ul>

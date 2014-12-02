@@ -210,8 +210,8 @@ Guest Lecture: Darren Mutz, Founder, Red Aspen Software<br>
 <section>
 <p>
 <b> December 2, 2014</br></b>
-First hour: <b href="tbd.html">Looking Forward: Thicker Clients: asm.js</b></br>
-Second hour: <b href="tbd.html">Looking Forward: Thicker Clients: WebRTC & WebSockets </b></br>
+First hour: <a href="lecture_12_02.pdf">Looking Forward: Thicker Clients: asm.js</a></br>
+Second hour: <a href="lecture_12_02.pdf">Looking Forward: Thicker Clients: Emscripten and Webruby </a></br>
 </p>
 </section>
 </ul>

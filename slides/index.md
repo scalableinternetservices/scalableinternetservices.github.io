@@ -220,8 +220,7 @@ Second hour: <a href="lecture_12_02.pdf">Looking Forward: Thicker Clients: Emscr
 <section>
 <p>
 <b>December 4, 2014</br></b>
-First hour: <b href="tbd.html">Looking Forward: HTTP 2.0 and SPDY</b></br>
-Second hour: <b href="tbd.html">Looking Forward: DevOps, Docker & Continuous Deployment </b></br>
+<a href="lecture_12_04.pdf">Looking Forward: HTTP 2.0 and SPDY</a></br>
 </p>
 </section>
 </ul>

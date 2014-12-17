@@ -224,7 +224,7 @@ Second hour: <a href="lecture_12_02.pdf">Looking Forward: Thicker Clients: Emscr
 <section>
 <p>
 <b>December 4, 2014</br></b>
-Pre-reading: Chapter 12 in High Performance Browser Networking
+Pre-reading: Chapter 12 in High Performance Browser Networking</br>
 <a href="lecture_12_04.pdf">Looking Forward: HTTP 2.0 and SPDY</a></br>
 </p>
 </section>

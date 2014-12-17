@@ -159,6 +159,7 @@ Goleta, CA 93117<br>
 <section>
 <p>
 <b>November 13, 2014</br></b>
+Pre-reading: Chapter 4 in High Performance Browser Networking.</br>
 First hour: <a href="lecture_11_13.pdf">Security basics: intro to HTTPS</a></br>
 Second hour: <a href="lecture_11_13.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</a></br>
 </p>
@@ -223,6 +224,7 @@ Second hour: <a href="lecture_12_02.pdf">Looking Forward: Thicker Clients: Emscr
 <section>
 <p>
 <b>December 4, 2014</br></b>
+Pre-reading: Chapter 12 in High Performance Browser Networking
 <a href="lecture_12_04.pdf">Looking Forward: HTTP 2.0 and SPDY</a></br>
 </p>
 </section>

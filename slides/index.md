@@ -24,6 +24,7 @@ Second hour:
 <section>
 <p>
 <b>October 7, 2014</br></b>
+Pre-reading: Chapters 9, 10, 11 in High Performance Browser Networking</br>
 First hour: <a href="lecture_10_07.pdf">Introduction to HTTP</a>
 </br>
 Second hour: <a href="lecture_10_07.pdf">Introduction to HTML and CSS</a>
@@ -49,6 +50,7 @@ Pairing, TDD, & CI at Pivotal </a><br>
 <section>
 <p>
 <b>October 14, 2014</br></b>
+Pre-reading: <a href="https://cs.uwaterloo.ca/~brecht/papers/getpaper.php?file=eurosys-2007.pdf">Comparing the Performance of Web Server Architectures</a>, Pariag et al.</br>
 First hour: <a href="lecture_10_14.pdf">Efficient Use of Server Resources: App Server Architectures</a></br>
 Second hour: <a href="lecture_10_14.pdf">Efficient use of Server Resources: App Server Architectures, cont. </a></br>
 </p>
@@ -168,6 +170,7 @@ Second hour: <a href="lecture_11_13.pdf">Security basics: Firewalls, XSS, CSRF, 
 <section>
 <p>
 <b>November 18, 2014</br></b>
+Pre-reading: Chapter 15 in High Performance Browser Networking</br>
 First hour: <a href="lecture_11_17.pdf">Looking Forward: Client-side Renaissance.</a></br>
 Second hour: <a href="lecture_11_17.pdf">Looking Forward:   Structured Data and Client-Side MVC, LocalStorage</a></br>
 </p>
@@ -179,7 +182,7 @@ Second hour: <a href="lecture_11_17.pdf">Looking Forward:   Structured Data and 
 <p>
 <b>November 20, 2014</br></b>
 Guest Lecture - Colin Kelley, CTO, Invoca<br> 
-<a href="kelley.pdf">What I've Learned about Scalable Apps</a></br>
+<a href="kelley.pdf">What I've Learned about Building Scalable Applications</a></br>
 </p>
 </section>
 </ul>

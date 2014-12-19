@@ -33,6 +33,16 @@ showinnav: true
   <h2>This Year's Projects</h2>
   <ul>
     <li><a href="https://github.com/scalableinternetservices/Gradr">A scalable automatic grading system</a>.</li>
+    <li><a href="https://github.com/scalableinternetservices/Compete">A competition tracking application</a>.</li>
+    <li><a href="https://github.com/scalableinternetservices/LaPlaya">Share programming projects like MIT's Scratch</a>.</li>
+    <li><a href="https://github.com/scalableinternetservices/BaconWindshield">Find and compare nearby surf spots</a>.</li>
+    <li><a href="https://github.com/scalableinternetservices/Upvid">Upload and share viral videos</a>.</li>
+    <li><a href="https://github.com/scalableinternetservices/Picshare">Send photos to strangers, and upvote/downvote them</a>.</li>
+    <li><a href="https://github.com/scalableinternetservices/Motley-Crew">Questmaster: gamification of everyday tasks</a>.</li>
+    <li><a href="https://github.com/scalableinternetservices/Xup">Find parties near you and share yours</a>.</li>
+    <li><a href="https://github.com/scalableinternetservices/Team-Hytta">An electronic cabin guest book</a>.</li>
+    <li><a href="https://github.com/scalableinternetservices/Suppr">Suppr: share meals with friends</a>.</li>
+    
   </ul>
 
   <a id="project_ideas"></a>

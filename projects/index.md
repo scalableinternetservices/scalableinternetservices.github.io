@@ -29,6 +29,11 @@ showinnav: true
     <li>Read the list of <a href="#project_ideas">project suggestions</a></li>
     <li>Add your own project suggestions</li>
   </ul>
+  
+  <h2>This Year's Projects</h2>
+  <ul>
+    <li><a href="https://github.com/scalableinternetservices/Gradr">A scalable automatic grading system</a>.</li>
+  </ul>
 
   <a id="project_ideas"></a>
   <h2> Project Ideas </h2>

@@ -79,7 +79,7 @@ showinnav: false
 
   <ul>
     <li>
-    <b>Sprint -1. Starts Oct 8, 2014.</b>
+    <b>Sprint -1. Starts April 10, 2015.</b>
     <ul>
       <li>Install Rails</li>
       <li>Learn Ruby</li>
@@ -90,7 +90,7 @@ showinnav: false
     </li>
 
     <li>
-    <b>Sprint 0. Starts Oct 15, 2014.</b>
+    <b>Sprint 0. Starts April 17, 2015.</b>
     <ul>
       <li>Read chapters nine through seventeen in Agile Web Development with Rails</li>
       <li>Learn TDD</li>
@@ -99,7 +99,7 @@ showinnav: false
     </li>
 
     <li>
-    <b>Sprint 1: Starts Oct 22, 2014.</b>
+    <b>Sprint 1: Starts April 24, 2015.</b>
     <ul>
       <li>Form Groups</li>
       <li>Decide on Projects</li>
@@ -111,7 +111,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 2: Starts Oct 29, 2014.</b>
+    <b>Sprint 2: Starts May 1, 2015.</b>
     <ul>
       <li>Implement initial set of functionality</li>
       <li>Implement user accounts and authentication</li>
@@ -123,7 +123,7 @@ showinnav: false
     </li>
 
     <li>
-    <b>Sprint 3: Starts Nov 5, 2014.</b>
+    <b>Sprint 3: Starts May 8, 2015.</b>
     <ul>
       <li>Implement next set of functionality</li>
       <li>Have capistrano deployment scripts to automate loading the production database and deploying production code</li>
@@ -132,7 +132,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 4: Starts Nov 12, 2014.</b>
+    <b>Sprint 4: Starts May 15, 2015.</b>
     <ul>
       <li>Finish implementing general functionality</li>
       <li>Describe the "critical path" for scalability, which is the sequence of pages that you expect most users to go through. This is the set of pages that you will optimize, scale and benchmark</li>
@@ -142,7 +142,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 5: Starts Nov 19, 2014.</b>
+    <b>Sprint 5: Starts May 22, 2015.</b>
     <ul>
       <li>Fully implement the features that are exercised by the "critical path"</li>
       <li>It is important that the pages have all the elements/data required, which ensures that all the database accesses that need to occur actually do occur</li>
@@ -152,7 +152,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 6: Starts Nov 26, 2014.</b>
+    <b>Sprint 6: Starts May 29, 2015.</b>
     <ul>
       <li>Create large dataset (greater than 100,000 records)</li>
       <li>Launch a load-generator instance on EC2 and use httperf on it to load-up your web site. Plot response time (sec/req) and throughput (req/sec) as you increase the load</li>
@@ -166,7 +166,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 7: Starts Dec 3, 2014.</b>
+    <b>Sprint 7: Starts June 5, 2015.</b>
     <ul>
       <li>Final performance experiments</li>
       <li>Document measurements</li>

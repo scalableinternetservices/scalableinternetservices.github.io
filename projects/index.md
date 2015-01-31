@@ -30,7 +30,7 @@ showinnav: false
     <li>Add your own project suggestions</li>
   </ul>
   
-  <h2>This Year's Projects</h2>
+  <h2>Fall 2014 Projects</h2>
   <ul>
     <li><a href="https://github.com/scalableinternetservices/Gradr">A scalable automatic grading system</a>.</li>
     <li><a href="https://github.com/scalableinternetservices/Compete">A competition tracking application</a>.</li>

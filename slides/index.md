@@ -9,12 +9,12 @@ showinnav: true
 <ul>
 <section>
 <p>
-<b>October 2, 2014</br></b>
-First hour: <a href="lecture_10_02.pdf">Introduction to Scalable Internet
-Services</a>
+<b>March 30, 2015</br></b>
+First hour: <b href="lecture_10_02.pdf">Introduction to Scalable Internet
+Services</b>
 </br>
 Second hour: 
-<a href="lecture_10_02.pdf">The lifecycle of a request on the web</a>
+<b href="lecture_10_02.pdf">The lifecycle of a request on the web</b>
 </br>
 </p>
 </section>
@@ -23,11 +23,11 @@ Second hour:
 <ul>
 <section>
 <p>
-<b>October 7, 2014</br></b>
+<b>April 1, 2015</br></b>
 Pre-reading: Chapters 9, 10, 11 in High Performance Browser Networking</br>
-First hour: <a href="lecture_10_07.pdf">Introduction to HTTP</a>
+First hour: <b href="lecture_10_07.pdf">Introduction to HTTP</b>
 </br>
-Second hour: <a href="lecture_10_07.pdf">Introduction to HTML and CSS</a>
+Second hour: <b href="lecture_10_07.pdf">Introduction to HTML and CSS</b>
 </br>
 </section>
 </ul>
@@ -35,10 +35,9 @@ Second hour: <a href="lecture_10_07.pdf">Introduction to HTML and CSS</a>
 <ul>
 <section>
 <p>
-<b>October 9, 2014</br></b>
-Guest lecture by Ross Hale (@rrrosss), Engineering Director at Pivotal Labs. (Slides by Onsi Fakouri, @onsijoe) <br>
-<a href="pivotal_culture.pdf">Working Software Quickly: Agile,
-Pairing, TDD, & CI at Pivotal </a><br>
+<b>April 6, 2015</br></b>
+<b href="pivotal_culture.pdf">Working Software Quickly: Agile,
+Pairing, TDD, & CI</b><br>
 </p>
 </section>
 </ul>
@@ -49,10 +48,10 @@ Pairing, TDD, & CI at Pivotal </a><br>
 <ul>
 <section>
 <p>
-<b>October 14, 2014</br></b>
+<b>April 8, 2015</br></b>
 Pre-reading: <a href="https://cs.uwaterloo.ca/~brecht/papers/getpaper.php?file=eurosys-2007.pdf">Comparing the Performance of Web Server Architectures</a>, Pariag et al.</br>
-First hour: <a href="lecture_10_14.pdf">Efficient Use of Server Resources: App Server Architectures</a></br>
-Second hour: <a href="lecture_10_14.pdf">Efficient use of Server Resources: App Server Architectures, cont. </a></br>
+First hour: <b href="lecture_10_14.pdf">Efficient Use of Server Resources: App Server Architectures</b></br>
+Second hour: <b href="lecture_10_14.pdf">Efficient use of Server Resources: App Server Architectures, cont. </b></br>
 </p>
 </section>
 </ul>
@@ -60,11 +59,11 @@ Second hour: <a href="lecture_10_14.pdf">Efficient use of Server Resources: App 
 <ul>
 <section>
 <p>
-<b>October 16, 2014<br></b>
+<b>April 13, 2015<br></b>
 Pre-reading: <a href="http://www.ics.uci.edu/~cs230/reading/DLB.pdf">Dynamic Load Balancing on Web-server Systems. </a> Cardellini, Colajanni, Yu.<br>
 
-First hour: <a href="lecture_10_16.pdf">High Availability: Load Balancing</a><br>
-Second hour: <a href="lecture_10_16.pdf">High Availability: A Share-Nothing Web Stack</a><br>
+First hour: <b href="lecture_10_16.pdf">High Availability: Load Balancing</b><br>
+Second hour: <b href="lecture_10_16.pdf">High Availability: A Share-Nothing Web Stack</b><br>
 </p>
 </section>
 </ul>
@@ -74,9 +73,9 @@ Second hour: <a href="lecture_10_16.pdf">High Availability: A Share-Nothing Web 
 <ul>
 <section>
 <p>
-<b>October 21, 2014</br></b>
-First hour: <a href="lecture_10_21.pdf">Low Latency: All About Caching on the Server</a></br>
-Second hour: <a href="lecture_10_21.pdf">Low Latency: All About Caching on the Client</a></br>
+<b>April 15, 2015</br></b>
+First hour: <b href="lecture_10_21.pdf">Low Latency: All About Caching on the Server</b></br>
+Second hour: <b href="lecture_10_21.pdf">Low Latency: All About Caching on the Client</b></br>
 </p>
 </section>
 </ul>
@@ -85,8 +84,8 @@ Second hour: <a href="lecture_10_21.pdf">Low Latency: All About Caching on the C
 <ul>
 <section>
 <p>
-<b>October 23, 2014</br></b>
-First hour: <a href="lecture_10_23.pdf">A Stable Data Layer: Relational Databases</a></br>
+<b>April 20, 2015</br></b>
+First hour: <b href="lecture_10_23.pdf">A Stable Data Layer: Relational Databases</b></br>
 Second hour: <b href="tbd.html">User Authentication with Devise</b></br>
 </p>
 </section>
@@ -96,9 +95,9 @@ Second hour: <b href="tbd.html">User Authentication with Devise</b></br>
 <ul>
 <section>
 <p>
-<b>October 28, 2014</br></b>
-First hour: <a href="lecture_10_28.pdf">A Stable Data Layer: Concurrency Control in Rails</a></br>
-Second hour: <a href="lecture_10_28.pdf">A Stable Data Layer: Query Analysis</a></br>
+<b>April 22, 2015</br></b>
+First hour: <b href="lecture_10_28.pdf">A Stable Data Layer: Concurrency Control in Rails</b></br>
+Second hour: <b href="lecture_10_28.pdf">A Stable Data Layer: Query Analysis</b></br>
 </p>
 </section>
 </ul>
@@ -107,9 +106,9 @@ Second hour: <a href="lecture_10_28.pdf">A Stable Data Layer: Query Analysis</a>
 <ul>
 <section>
 <p>
-<b>October 30, 2014</br></b>
-First hour: <a href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding, SOA</a></br>
-Second hour: <a href="lecture_10_30.pdf">Scaling Out: Scaling Reads vs. Scaling Writes</a></br>
+<b>April 27, 2015</br></b>
+First hour: <b href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding, SOA</b></br>
+Second hour: <b href="lecture_10_30.pdf">Scaling Out: Scaling Reads vs. Scaling Writes</b></br>
 </p>
 </section>
 </ul>
@@ -119,13 +118,13 @@ Second hour: <a href="lecture_10_30.pdf">Scaling Out: Scaling Reads vs. Scaling 
 <ul>
 <section>
 <p>
-<b>November 4, 2014</br></b>
+<b>April 29, 2015</br></b>
 Pre-reading: 
 <a
 href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP 12 years later</a> by Eric Brewer, 
 <a href="vogels.pdf">Eventually Consistent</a> by Werner Vogels<br>
-Guest Lecture by Josep Blanquer, Chief Architect, Rightscale. <br>
-<a href="blanquer.pdf"> Beyond SQL: Non-Relational Data Stores.</a></br>
+Guest Lecture: TBD. <br>
+<b href="blanquer.pdf"> Beyond SQL: Non-Relational Data Stores.</b></br>
 </p>
 </section>
 </ul>
@@ -134,12 +133,8 @@ Guest Lecture by Josep Blanquer, Chief Architect, Rightscale. <br>
 <ul>
 <section>
 <p>
-<b>November 6, 2014</br></b>
-Citrix Online Data Center Tour<br>
-Please be on time at 1pm.<br>
-7414 Hollister Avenue<br>
-Goleta, CA 93117<br>
-<a href="col_location.pdf"> Click here to see where to meet. </a>
+<b>May 4, 2015</br></b>
+Data Center Tour TBD
 </p>
 </section>
 </ul>
@@ -148,8 +143,8 @@ Goleta, CA 93117<br>
 <ul>
 <section>
 <p>
-<b>November 11, 2014</br></b>
-<em>No Class - Veterans' Day</em>
+<b>May 6, 2015, 2014</br></b>
+<em>TBD</em>
 </p>
 </section>
 </ul>
@@ -158,10 +153,10 @@ Goleta, CA 93117<br>
 <ul>
 <section>
 <p>
-<b>November 13, 2014</br></b>
+<b>May 11, 2015</br></b>
 Pre-reading: Chapter 4 in High Performance Browser Networking.</br>
-First hour: <a href="lecture_11_13.pdf">Security basics: intro to HTTPS</a></br>
-Second hour: <a href="lecture_11_13.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</a></br>
+First hour: <b href="lecture_11_13.pdf">Security basics: intro to HTTPS</b></br>
+Second hour: <b href="lecture_11_13.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</b></br>
 </p>
 </section>
 </ul>
@@ -170,10 +165,10 @@ Second hour: <a href="lecture_11_13.pdf">Security basics: Firewalls, XSS, CSRF, 
 <ul>
 <section>
 <p>
-<b>November 18, 2014</br></b>
+<b>May 13, 2015</br></b>
 Pre-reading: Chapter 15 in High Performance Browser Networking</br>
-First hour: <a href="lecture_11_17.pdf">Looking Forward: Client-side Renaissance.</a></br>
-Second hour: <a href="lecture_11_17.pdf">Looking Forward:   Structured Data and Client-Side MVC, LocalStorage</a></br>
+First hour: <b href="lecture_11_17.pdf">Looking Forward: Client-side Renaissance.</b></br>
+Second hour: <b href="lecture_11_17.pdf">Looking Forward:   Structured Data and Client-Side MVC, LocalStorage</b></br>
 </p>
 </section>
 </ul>
@@ -181,9 +176,8 @@ Second hour: <a href="lecture_11_17.pdf">Looking Forward:   Structured Data and 
 <ul>
 <section>
 <p>
-<b>November 20, 2014</br></b>
-Guest Lecture - Colin Kelley, CTO, Invoca<br> 
-<a href="kelley.pdf">What I've Learned about Building Scalable Applications</a></br>
+<b>May 18, 2015</br></b>
+Guest Lecture: TBD<br> 
 </p>
 </section>
 </ul>
@@ -192,8 +186,8 @@ Guest Lecture - Colin Kelley, CTO, Invoca<br>
 <ul>
 <section>
 <p>
-<b>November 25, 2014</br></b>
-Guest Lecture: Darren Mutz, Founder, Red Aspen Software<br>
+<b>May 20, 2015</br></b>
+Guest Lecture: TBD<br>
 <b href="tbd.html">Technical Challenges in Content Delivery Networks</b></br>
 </p>
 </section>
@@ -202,8 +196,8 @@ Guest Lecture: Darren Mutz, Founder, Red Aspen Software<br>
 <ul>
 <section>
 <p>
-<b>November 27, 2014</br></b>
-<em>No Class - Thanksgiving Day</em>
+<b>May 25, 2015</br></b>
+<em>Memorial day, No class</em>
 </p>
 </section>
 </ul>
@@ -213,9 +207,9 @@ Guest Lecture: Darren Mutz, Founder, Red Aspen Software<br>
 <ul>
 <section>
 <p>
-<b> December 2, 2014</br></b>
-First hour: <a href="lecture_12_02.pdf">Looking Forward: Thicker Clients: asm.js</a></br>
-Second hour: <a href="lecture_12_02.pdf">Looking Forward: Thicker Clients: Emscripten and Webruby </a></br>
+<b>May 27, 2015</br></b>
+First hour: <b href="lecture_12_02.pdf">Looking Forward: Thicker Clients: asm.js</b></br>
+Second hour: <b href="lecture_12_02.pdf">Looking Forward: Thicker Clients: Emscripten and Webruby </b></br>
 </p>
 </section>
 </ul>
@@ -223,10 +217,19 @@ Second hour: <a href="lecture_12_02.pdf">Looking Forward: Thicker Clients: Emscr
 <ul>
 <section>
 <p>
-<b>December 4, 2014</br></b>
+<b>June 1, 2015</br></b>
 Pre-reading: Chapter 12 in High Performance Browser Networking</br>
-<a href="lecture_12_04.pdf">Looking Forward: HTTP 2.0 and SPDY</a></br>
+<b href="lecture_12_04.pdf">Looking Forward: HTTP 2.0 and SPDY</b></br>
 </p>
 </section>
 </ul>
+<ul>
+<section>
+<p>
+<b>June 3, 2015</br></b>
+<b href="lecture_12_04.pdf">TBD</b></br>
+</p>
+</section>
+</ul>
+
 

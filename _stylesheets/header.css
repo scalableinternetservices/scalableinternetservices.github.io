@@ -3,7 +3,7 @@
 #logo {
   position: relative;
   height: 60px;
-  width: 222px;
+  width: 195px;
   margin: 0 auto;
   padding-top: 8px;
 }
@@ -11,14 +11,14 @@
 #logo a {
   display: block;
   text-indent: -999px;
-  width: 430px;
+  width: 400px;
   height: 138px;
   overflow: hidden;
-  background: url('../images/ucsbcs-1x.png') no-repeat;
+  background: url('../images/ucla-1x.png') no-repeat;
   pointer-events:none;
   -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
-  filter: alpha(opacity=85);
-  opacity: 0.90;
+  filter: alpha(opacity=100);
+  opacity: 1.0;
 }
 
 @media
@@ -29,7 +29,7 @@ only screen and (        min-device-pixel-ratio: 2),
 only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
   #logo a {
-    background: url('../images/ucsbcs-2x.png') no-repeat;
+    background: url('../images/ucla-2x.png') no-repeat;
     background-size: 215px 59px;
   }
 }

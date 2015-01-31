@@ -3,7 +3,7 @@ layout: page
 title: Course Project
 description: Description of Course Project
 categories: ['presentations']
-showinnav: true
+showinnav: false
 ---
 <div class="content">
   <h2>Objective</h2>

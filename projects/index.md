@@ -79,7 +79,7 @@ showinnav: false
 
   <ul>
     <li>
-    <b>Sprint -1. Starts April 10, 2015.</b>
+    <b>Sprint -1: Starts April 3, 2015.</b>
     <ul>
       <li>Install Rails</li>
       <li>Learn Ruby</li>
@@ -88,24 +88,40 @@ showinnav: false
       <li>Read Chapters one through eight in Agile Web Development with Rails</li>
     </ul>
     </li>
-
     <li>
-    <b>Sprint 0. Starts April 17, 2015.</b>
+    <b>Sprint 0: Starts April 10, 2015.</b>
     <ul>
+      <li>By the beginning of this sprint, you should have your team
+      formed.</li>
+      <li>Determine your project, get approved by TA and professor.</li>
       <li>Read chapters nine through seventeen in Agile Web Development with Rails</li>
-      <li>Learn TDD</li>
-      <li>Learn Pairing</li>
+      <li>If you don't know git, learn git: <a
+      href="http://rogerdudler.github.io/git-guide/">simple guide</a>
+      </li>
     </ul>
     </li>
 
     <li>
-    <b>Sprint 1: Starts April 24, 2015.</b>
+    <b>Sprint 1: Starts April 17, 2015.</b>
     <ul>
-      <li>Form Groups</li>
-      <li>Decide on Projects</li>
-      <li>Basic user stories and page flow diagram</li>
-      <li>Basic project planning</li>
-      <li>Enter stories in pivotal tracker</li>
+      <li>Get a blank rails app in your team's github repo.</li>
+      <li>Learn TDD: get <a href="http://docs.travis-ci.org">Travis CI</a> working with your github repository</li>
+      <li>Start writing stories for your project in pivotal tracker</li>
+      <li>Decide on a sprint commitment.</li>
+      <li>Learn pairing by pairing up on the first few stories</li>
+    </ul>
+    </li>
+
+    <li>
+    <b>Sprint 2: Starts April 24, 2015.</b>
+    <ul>
+      <li>Conduct a retrospective on how the last sprint went and how
+      you can improve.</li>
+      <li>Decide on a sprint commitment.</li>
+      <li>Implement stories from the current sprint.</li>
+      <li>Deploy your application on Amazon EC2 (it's fine if the apps
+      functionality is very limited at this point).</li>
+      <li>Learn EC2 and Amazon Web Console</li>
     </ul>
     </li>
 
@@ -113,20 +129,34 @@ showinnav: false
     <li>
     <b>Sprint 2: Starts May 1, 2015.</b>
     <ul>
-      <li>Implement initial set of functionality</li>
-      <li>Implement user accounts and authentication</li>
-      <li>Use small dataset for development</li>
-      <li>Use MySQL database</li>
-      <li>Demo your web site on an instance of Amazon's Elastic Compute Cloud</li>
-      <li>Learn EC2 and Amazon Web Console</li>
+      <li>Conduct a retrospective on how the last sprint went and how
+      you can improve.</li>
+      <li>Decide on a sprint commitment.</li>
+      <li>Implement stories from the current sprint.</li>
+      <li>Deploy a tsung instance on EC2.</li>
+      <li>Write an initial tsung xml file to load test a simple action
+      on your app.</li>
+      <li>Load test your app with tsung running on a micro instance.</li>
+    
     </ul>
     </li>
 
     <li>
     <b>Sprint 3: Starts May 8, 2015.</b>
     <ul>
-      <li>Implement next set of functionality</li>
-      <li>Have capistrano deployment scripts to automate loading the production database and deploying production code</li>
+      <li>Conduct a retrospective on how the last sprint went and how
+      you can improve.</li>
+      <li>Decide on a sprint commitment.</li>
+      <li>Implement stories from the current sprint.</li>
+      <li>Define the "critical path" through your application (the set
+      of pages that a common user will go through)</li>
+      <li>Write a tsung xml file to exercise this critical path.</li>
+      <li>Test (and document) the effects of vertical scaling on your
+      application with the new critical path xml file.</li>
+      <li>Create medium-large dataset (~10,000 records) using
+      database seeds and perform the vertical scaling tests against this
+      as well.</li>
+
     </ul>
     </li>
 
@@ -134,9 +164,15 @@ showinnav: false
     <li>
     <b>Sprint 4: Starts May 15, 2015.</b>
     <ul>
-      <li>Finish implementing general functionality</li>
-      <li>Describe the "critical path" for scalability, which is the sequence of pages that you expect most users to go through. This is the set of pages that you will optimize, scale and benchmark</li>
-      <li>Create medium-large dataset (about 10,000 records)</li>
+      <li>Conduct a retrospective on how the last sprint went and how
+      you can improve.</li>
+      <li>Decide on a sprint commitment.</li>
+      <li>Implement stories from the current sprint.  Your application
+      should be mostly feature complete at this time and subsequent work
+      should focus on polish.</li>
+      <li>Deploy your application on a variety of load-balanced
+      configurations, with large dataset.  Tsung test, measure,
+      document.</li>
     </ul>
     </li>
 
@@ -144,9 +180,17 @@ showinnav: false
     <li>
     <b>Sprint 5: Starts May 22, 2015.</b>
     <ul>
-      <li>Fully implement the features that are exercised by the "critical path"</li>
-      <li>It is important that the pages have all the elements/data required, which ensures that all the database accesses that need to occur actually do occur</li>
-      <li>For each of the critical sequences, list the database operations that are issued in the production environment</li>
+      <li>Conduct a retrospective on how the last sprint went and how
+      you can improve.</li>
+      <li>Decide on a sprint commitment.</li>
+      <li>Implement stories from the current sprint.  Only polish is
+      appropriate at this stage.</li>
+      <li>By the end of this sprint your project should be feature complete.</li>
+      <li>Inspect and optimize the way your application is interacting
+      with the database.  If necessary, write custom sql to optimize.</li>
+      <li>Deploy your data-related optimizations on a simple load-balanced
+      configuration, with large dataset.  Tsung test, measure,
+      document.</li>
     </ul>
     </li>
 
@@ -154,13 +198,13 @@ showinnav: false
     <li>
     <b>Sprint 6: Starts May 29, 2015.</b>
     <ul>
+      <li>Conduct a retrospective on how the last sprint went and how
+      you can improve.</li>
       <li>Create large dataset (greater than 100,000 records)</li>
-      <li>Launch a load-generator instance on EC2 and use httperf on it to load-up your web site. Plot response time (sec/req) and throughput (req/sec) as you increase the load</li>
-      <li>Push the envelope using a single server without compromising scalability</li>
-      <li>Run multiple instances and test the scalability of your system</li>
-      <li>Begin scaling experiments and optimizations. Document what you learn</li>
-      <li>Continue to optimize and document results</li>
-      <li>Implement caching and architectural changes to eliminate bottlenecks (database, application, http), eventual consistency, etc</li>
+      <li>Implement server-side caching.</li>
+      <li>Deploy your caching optimizations on a simple load-balanced
+      configuration, with large dataset, both with and without memcache.  Tsung test, measure,
+      document.</li>
     </ul>
     </li>
 
@@ -168,10 +212,12 @@ showinnav: false
     <li>
     <b>Sprint 7: Starts June 5, 2015.</b>
     <ul>
+      <li>Conduct a retrospective on how the last sprint went and how
+      you can improve.</li>
       <li>Final performance experiments</li>
       <li>Document measurements</li>
       <li>Test for Availability</li>
-      <li>Writeup results on team page</li>
+      <li>Writeup results</li>
       <li>Prepare final presentation</li>
     </ul>
     </li>

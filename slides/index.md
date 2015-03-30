@@ -16,6 +16,7 @@ Services</b>
 Second hour: 
 <b href="lecture_10_02.pdf">The lifecycle of a request on the web</b>
 </br>
+Reading: Chapters 1 & 2 in High Performance Browser Networking</br>
 </p>
 </section>
 </ul>
@@ -24,7 +25,6 @@ Second hour:
 <section>
 <p>
 <b>April 1, 2015</br></b>
-Pre-reading: Chapters 9, 10, 11 in High Performance Browser Networking</br>
 First hour: <b href="lecture_10_07.pdf">Introduction to HTTP</b>
 </br>
 Second hour: <b href="lecture_10_07.pdf">Introduction to HTML and CSS</b>

@@ -25,9 +25,9 @@ Reading: Chapters 1 & 2 in High Performance Browser Networking</br>
 <section>
 <p>
 <b>April 1, 2015</br></b>
-First hour: <b href="lecture_10_07.pdf">Introduction to HTTP</b>
+First hour: <a href="lecture_04_01.pdf">Introduction to HTTP</a>
 </br>
-Second hour: <b href="lecture_10_07.pdf">Introduction to HTML and CSS</b>
+Second hour: <a href="lecture_04_01.pdf">Introduction to HTML and CSS</a>
 </br>
 </section>
 </ul>

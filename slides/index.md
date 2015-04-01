@@ -29,6 +29,8 @@ First hour: <a href="lecture_04_01.pdf">Introduction to HTTP</a>
 </br>
 Second hour: <a href="lecture_04_01.pdf">Introduction to HTML and CSS</a>
 </br>
+Read and do chapters 1 and 2 from Agile Web Development with Rails.
+Continue working on <a href="http://www.codecademy.com/en/tracks/ruby/">Ruby Code Academy</a> (finish it by next week).
 </section>
 </ul>
 

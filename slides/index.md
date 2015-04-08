@@ -54,8 +54,8 @@ Pairing</a><br>
 <p>
 <b>April 8, 2015</br></b>
 <!-- Pre-reading: <a href="https://cs.uwaterloo.ca/~brecht/papers/getpaper.php?file=eurosys-2007.pdf">Comparing the Performance of Web Server Architectures</a>, Pariag et al.</br> -->
-First hour: <b href="lecture_10_14.pdf">Efficient Use of Server Resources: App Server Architectures</b></br>
-Second hour: <b href="lecture_10_14.pdf">Efficient use of Server Resources: App Server Architectures, cont. </b></br>
+First hour: <a href="lecture_04_08.pdf">Efficient Use of Server Resources: App Server Architectures</a></br>
+Second hour: <a href="lecture_04_08.pdf">Efficient use of Server Resources: App Server Architectures, cont. </a></br>
 </p>
 </section>
 </ul>

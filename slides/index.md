@@ -65,9 +65,21 @@ Second hour: <a href="lecture_04_08.pdf">Efficient use of Server Resources: App 
 <p>
 <b>April 13, 2015<br></b>
 Pre-reading: <a href="http://www.ics.uci.edu/~cs230/reading/DLB.pdf">Dynamic Load Balancing on Web-server Systems. </a> Cardellini, Colajanni, Yu.<br>
+First hour: <b href="lecture_10_16.pdf">Load Balancing</b><br>
+Second hour: <b href="lecture_10_16.pdf">Horizontal Scaling of
+Application Servers</b><br>
+</p>
+</section>
+</ul>
 
-First hour: <b href="lecture_10_16.pdf">High Availability: Load Balancing</b><br>
-Second hour: <b href="lecture_10_16.pdf">High Availability: A Share-Nothing Web Stack</b><br>
+<ul>
+<section>
+<p>
+<b>April 15, 2015<br></b>
+First hour: <b href="lecture_10_16.pdf">Architecting for High
+Availability</b><br>
+Second hour: <b href="lecture_10_16.pdf">Architecting for High
+Availability</b><br>
 </p>
 </section>
 </ul>
@@ -77,7 +89,7 @@ Second hour: <b href="lecture_10_16.pdf">High Availability: A Share-Nothing Web 
 <ul>
 <section>
 <p>
-<b>April 15, 2015</br></b>
+<b>April 20, 2015</br></b>
 First hour: <b href="lecture_10_21.pdf">Low Latency: All About Caching on the Server</b></br>
 Second hour: <b href="lecture_10_21.pdf">Low Latency: All About Caching on the Client</b></br>
 </p>
@@ -85,21 +97,32 @@ Second hour: <b href="lecture_10_21.pdf">Low Latency: All About Caching on the C
 </ul>
 
 
-<ul>
-<section>
-<p>
-<b>April 20, 2015</br></b>
-First hour: <b href="lecture_10_23.pdf">A Stable Data Layer: Relational Databases</b></br>
-Second hour: <b href="tbd.html">User Authentication with Devise</b></br>
-</p>
-</section>
-</ul>
 
 
 <ul>
 <section>
 <p>
 <b>April 22, 2015</br></b>
+First hour: <b >Guest Lecture: Darren Mutz, Founder, Red Aspen Software</b></br>
+Second hour: <b >Technical Challenges in Content Delivery Networks</b></br>
+</p>
+</section>
+</ul>
+
+<ul>
+<section>
+<p>
+<b>April 27, 2015</br></b>
+First hour: <b href="lecture_10_23.pdf">A Stable Data Layer: Relational Databases</b></br>
+Second hour: <b href="tbd.html">A Stable Data Layer: Relational Databases</b></br>
+</p>
+</section>
+</ul>
+
+<ul>
+<section>
+<p>
+<b>April 29, 2015</br></b>
 First hour: <b href="lecture_10_28.pdf">A Stable Data Layer: Concurrency Control in Rails</b></br>
 Second hour: <b href="lecture_10_28.pdf">A Stable Data Layer: Query Analysis</b></br>
 </p>
@@ -110,8 +133,18 @@ Second hour: <b href="lecture_10_28.pdf">A Stable Data Layer: Query Analysis</b>
 <ul>
 <section>
 <p>
-<b>April 27, 2015</br></b>
-First hour: <b href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding, SOA</b></br>
+<b>May 4, 2015</br></b>
+First hour: <b href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding</b></br>
+Second hour: <b href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding</b></br>
+</p>
+</section>
+</ul>
+<ul>
+<section>
+<p>
+<b>May 6, 2015</br></b>
+First hour: <b href="lecture_10_30.pdf">Scaling Out: Service Oriented
+Architectures</b></br>
 Second hour: <b href="lecture_10_30.pdf">Scaling Out: Scaling Reads vs. Scaling Writes</b></br>
 </p>
 </section>
@@ -122,7 +155,7 @@ Second hour: <b href="lecture_10_30.pdf">Scaling Out: Scaling Reads vs. Scaling 
 <ul>
 <section>
 <p>
-<b>April 29, 2015</br></b>
+<b>May 6, 2015</br></b>
 Pre-reading: 
 <a
 href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP 12 years later</a> by Eric Brewer, 
@@ -132,27 +165,6 @@ Guest Lecture: TBD. <br>
 </p>
 </section>
 </ul>
-
-
-<ul>
-<section>
-<p>
-<b>May 4, 2015</br></b>
-Data Center Tour TBD
-</p>
-</section>
-</ul>
-
-
-<ul>
-<section>
-<p>
-<b>May 6, 2015, 2014</br></b>
-<em>TBD</em>
-</p>
-</section>
-</ul>
-
 
 <ul>
 <section>
@@ -170,29 +182,28 @@ Second hour: <b href="lecture_11_13.pdf">Security basics: Firewalls, XSS, CSRF, 
 <section>
 <p>
 <b>May 13, 2015</br></b>
-Pre-reading: Chapter 15 in High Performance Browser Networking</br>
-First hour: <b href="lecture_11_17.pdf">Looking Forward: Client-side Renaissance.</b></br>
-Second hour: <b href="lecture_11_17.pdf">Looking Forward:   Structured Data and Client-Side MVC, LocalStorage</b></br>
+<b>Guest Lecture: Matt Aimonetti, CTO, Splice<br></b>
 </p>
 </section>
 </ul>
+
 
 <ul>
 <section>
 <p>
 <b>May 18, 2015</br></b>
-Guest Lecture: TBD<br> 
+<b>Guest Lecture: Jan Gelin, Chief Architect, Rubicon Project</b><br> 
 </p>
 </section>
 </ul>
-
 
 <ul>
 <section>
 <p>
 <b>May 20, 2015</br></b>
-Guest Lecture: TBD<br>
-<b href="tbd.html">Technical Challenges in Content Delivery Networks</b></br>
+Pre-reading: Chapter 15 in High Performance Browser Networking</br>
+First hour: <b href="lecture_11_17.pdf">Looking Forward: Client-side Renaissance.</b></br>
+Second hour: <b href="lecture_11_17.pdf">Looking Forward:   Structured Data and Client-Side MVC, LocalStorage</b></br>
 </p>
 </section>
 </ul>
@@ -205,9 +216,6 @@ Guest Lecture: TBD<br>
 </p>
 </section>
 </ul>
-
-
-
 <ul>
 <section>
 <p>
@@ -217,6 +225,7 @@ Second hour: <b href="lecture_12_02.pdf">Looking Forward: Thicker Clients: Emscr
 </p>
 </section>
 </ul>
+
 
 <ul>
 <section>

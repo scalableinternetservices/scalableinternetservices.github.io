@@ -76,10 +76,9 @@ Balancing</a><br>
 <section>
 <p>
 <b>April 15, 2015<br></b>
-First hour: <b href="lecture_10_16.pdf">Architecting for High
-Availability</b><br>
-Second hour: <b href="lecture_10_16.pdf">Architecting for High
-Availability</b><br>
+First hour: <a href="lecture_04_15.pdf">Architecting for High
+Availability</a><br>
+Second hour: <a href="lecture_04_15.pdf">Client-side Caching</a><br>
 </p>
 </section>
 </ul>

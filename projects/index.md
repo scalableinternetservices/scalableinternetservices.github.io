@@ -105,7 +105,7 @@ showinnav: false
     <b>Sprint 1: Starts April 17, 2015.</b>
     <ul>
       <li>Get a blank rails app in your team's github repo.</li>
-      <li>Learn TDD: get <a href="http://docs.travis-ci.org">Travis CI</a> working with your github repository</li>
+      <li>Learn TDD: get <a href="http://docs.travis-ci.com">Travis CI</a> working with your github repository</li>
       <li>Start writing stories for your project in pivotal tracker</li>
       <li>Decide on a sprint commitment.</li>
       <li>Learn pairing by pairing up on the first few stories</li>

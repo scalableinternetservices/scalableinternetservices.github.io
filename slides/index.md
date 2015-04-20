@@ -89,8 +89,8 @@ Second hour: <a href="lecture_04_15.pdf">Client-side Caching</a><br>
 <section>
 <p>
 <b>April 20, 2015</br></b>
-First hour: <b href="lecture_10_21.pdf">Low Latency: All About Caching on the Server</b></br>
-Second hour: <b href="lecture_10_21.pdf">Low Latency: All About Caching on the Client</b></br>
+First hour: <a href="lecture_04_20.pdf">Server-side Caching</a></br>
+Second hour: <a href="lecture_04_20.pdf">Deploying on AWS</a></br>
 </p>
 </section>
 </ul>

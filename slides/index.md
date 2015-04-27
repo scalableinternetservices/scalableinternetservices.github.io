@@ -112,27 +112,17 @@ Second hour: <b >Technical Challenges in Content Delivery Networks</b></br>
 <section>
 <p>
 <b>April 27, 2015</br></b>
-First hour: <b href="lecture_10_23.pdf">A Stable Data Layer: Relational Databases</b></br>
-Second hour: <b href="tbd.html">A Stable Data Layer: Relational Databases</b></br>
+First hour: <a href="lecture_04_27.pdf">A Stable Data Layer: Relational Databases</a></br>
+Second hour: <a href="lecture_04_27">Database Concurrency Control and Query Analysis</a></br>
 </p>
 </section>
 </ul>
+
 
 <ul>
 <section>
 <p>
 <b>April 29, 2015</br></b>
-First hour: <b href="lecture_10_28.pdf">A Stable Data Layer: Concurrency Control in Rails</b></br>
-Second hour: <b href="lecture_10_28.pdf">A Stable Data Layer: Query Analysis</b></br>
-</p>
-</section>
-</ul>
-
-
-<ul>
-<section>
-<p>
-<b>May 4, 2015</br></b>
 First hour: <b href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding</b></br>
 Second hour: <b href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding</b></br>
 </p>
@@ -141,7 +131,7 @@ Second hour: <b href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding</b></
 <ul>
 <section>
 <p>
-<b>May 6, 2015</br></b>
+<b>May 4, 2015</br></b>
 First hour: <b href="lecture_10_30.pdf">Scaling Out: Service Oriented
 Architectures</b></br>
 Second hour: <b href="lecture_10_30.pdf">Scaling Out: Scaling Reads vs. Scaling Writes</b></br>

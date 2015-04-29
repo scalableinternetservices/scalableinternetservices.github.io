@@ -123,8 +123,8 @@ Second hour: <a href="lecture_04_27">Database Concurrency Control and Query Anal
 <section>
 <p>
 <b>April 29, 2015</br></b>
-First hour: <b href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding</b></br>
-Second hour: <b href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding</b></br>
+First hour: <a href="lecture_04_29.pdf">RDBMSes and Sharding</a></br>
+Second hour: <a href="lecture_04_29.pdf">Service Oriented Architectures and Read Slaves</a></br>
 </p>
 </section>
 </ul>
@@ -132,9 +132,7 @@ Second hour: <b href="lecture_10_30.pdf">Scaling Out: RDBMSes and Sharding</b></
 <section>
 <p>
 <b>May 4, 2015</br></b>
-First hour: <b href="lecture_10_30.pdf">Scaling Out: Service Oriented
-Architectures</b></br>
-Second hour: <b href="lecture_10_30.pdf">Scaling Out: Scaling Reads vs. Scaling Writes</b></br>
+<b href="lecture_10_30.pdf">Load testing with Tsung</a></br>
 </p>
 </section>
 </ul>

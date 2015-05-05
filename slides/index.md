@@ -132,7 +132,7 @@ Second hour: <a href="lecture_04_29.pdf">Service Oriented Architectures and Read
 <section>
 <p>
 <b>May 4, 2015</br></b>
-<a href="lecture_05_03.pdf">Load testing with Tsung</a></br>
+<a href="lecture_05_04.pdf">Load testing with Tsung</a></br>
 </p>
 </section>
 </ul>

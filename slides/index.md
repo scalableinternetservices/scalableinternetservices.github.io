@@ -169,7 +169,7 @@ Second hour: <a href="lecture_05_11.pdf">Security basics: Firewalls, XSS, CSRF, 
 <section>
 <p>
 <b>May 13, 2015</br></b>
-<b>Guest Lecture: Matt Aimonetti, CTO, Splice: "Splice: architecting for
+<b>Guest Lecture: Matt Aimonetti, CTO, Splice: <br>"Splice: architecting for
 scale in the cloud era"<br></b>
 </p>
 </section>
@@ -180,7 +180,7 @@ scale in the cloud era"<br></b>
 <section>
 <p>
 <b>May 18, 2015</br></b>
-<b>Guest Lecture: Jan Gelin, Chief Architect, Rubicon Project: "Scaling real time advertising trading platforms, and what the cloud provider didn’t tell you!"</b><br> 
+<b>Guest Lecture: Jan Gelin, Chief Architect, Rubicon Project: <br>"Scaling real time advertising trading platforms, and what the cloud provider didn’t tell you!"</b><br> 
 </p>
 </section>
 </ul>

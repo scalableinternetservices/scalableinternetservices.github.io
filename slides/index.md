@@ -158,8 +158,8 @@ Guest Lecture: TBD. <br>
 <p>
 <b>May 11, 2015</br></b>
 Pre-reading: Chapter 4 in High Performance Browser Networking.</br>
-First hour: <b href="lecture_11_13.pdf">Security basics: intro to HTTPS</b></br>
-Second hour: <b href="lecture_11_13.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</b></br>
+First hour: <a href="lecture_05_11.pdf">Security basics: intro to HTTPS</a></br>
+Second hour: <a href="lecture_05_11.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</a></br>
 </p>
 </section>
 </ul>
@@ -169,7 +169,8 @@ Second hour: <b href="lecture_11_13.pdf">Security basics: Firewalls, XSS, CSRF, 
 <section>
 <p>
 <b>May 13, 2015</br></b>
-<b>Guest Lecture: Matt Aimonetti, CTO, Splice<br></b>
+<b>Guest Lecture: Matt Aimonetti, CTO, Splice: "Splice: architecting for
+scale in the cloud era"<br></b>
 </p>
 </section>
 </ul>
@@ -179,7 +180,7 @@ Second hour: <b href="lecture_11_13.pdf">Security basics: Firewalls, XSS, CSRF, 
 <section>
 <p>
 <b>May 18, 2015</br></b>
-<b>Guest Lecture: Jan Gelin, Chief Architect, Rubicon Project</b><br> 
+<b>Guest Lecture: Jan Gelin, Chief Architect, Rubicon Project: "Scaling real time advertising trading platforms, and what the cloud provider didn’t tell you!"</b><br> 
 </p>
 </section>
 </ul>

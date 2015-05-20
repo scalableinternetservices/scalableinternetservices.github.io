@@ -214,23 +214,23 @@ Second hour: <b href="lecture_12_02.pdf">Looking Forward: Thicker Clients: Emscr
 </section>
 </ul>
 
-
 <ul>
 <section>
 <p>
 <b>June 1, 2015</br></b>
-Pre-reading: Chapter 12 in High Performance Browser Networking</br>
-<b href="lecture_12_04.pdf">Looking Forward: HTTP 2.0 and SPDY</b></br>
-</p>
-</section>
-</ul>
-<ul>
-<section>
-<p>
-<b>June 3, 2015</br></b>
-<b href="lecture_12_04.pdf">TBD</b></br>
+<b >Guest Lecture: Jon Walker, CTO, Appfolio</b></br>
 </p>
 </section>
 </ul>
 
+
+<ul>
+<section>
+<p>
+<b>June 3, 2015</br></b>
+Pre-reading: Chapter 12 in High Performance Browser Networking</br>
+<b href="lecture_12_04.pdf">Looking Forward: HTTP 2.0 and QUIC</b></br>
+</p>
+</section>
+</ul>
 

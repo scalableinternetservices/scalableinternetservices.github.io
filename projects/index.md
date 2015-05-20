@@ -210,25 +210,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 7: Starts June 5, 2015.</b>
-    <ul>
-      <li>Conduct a retrospective on how the last sprint went and how
-      you can improve.</li>
-      <li>Final performance experiments</li>
-      <li>Document measurements</li>
-      <li>Test for Availability</li>
-      <li>Writeup results</li>
-      <li>Prepare final presentation</li>
-    </ul>
-    </li>
-
-
-    <li>
-    <b>Final Presentation date TBD</b>
-    <ul>
-      <li>Final Presentations</li>
-    </ul>
-    </li>
+    <b>Final presentations June 5.</b>
 
 
   </ul>

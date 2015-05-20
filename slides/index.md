@@ -190,8 +190,8 @@ scale in the cloud era"<br></b>
 <p>
 <b>May 20, 2015</br></b>
 Pre-reading: Chapter 15 in High Performance Browser Networking</br>
-First hour: <b href="lecture_11_17.pdf">Looking Forward: Client-side Renaissance.</b></br>
-Second hour: <b href="lecture_11_17.pdf">Looking Forward:   Structured Data and Client-Side MVC, LocalStorage</b></br>
+First hour: <a href="lecture_05_20.pdf">Looking Forward: Client-side Renaissance.</a></br>
+Second hour: <a href="lecture_05_20.pdf">Looking Forward:   An Overview of ES 6</a></br>
 </p>
 </section>
 </ul>

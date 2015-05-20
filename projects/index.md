@@ -210,7 +210,7 @@ showinnav: false
 
 
     <li>
-    <b>Final presentations June 5.</b>
+    <b>Writeup due and final presentations June 5.</b>
 
 
   </ul>

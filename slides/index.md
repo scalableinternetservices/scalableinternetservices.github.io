@@ -208,8 +208,8 @@ Second hour: <a href="lecture_05_20.pdf">Looking Forward:   An Overview of ES 6<
 <section>
 <p>
 <b>May 27, 2015</br></b>
-First hour: <b href="lecture_05_27.pdf">Looking Forward:  Beyond Javascript Clients: asm.js</b></br>
-Second hour: <b href="lecture_05_27.pdf">Looking Forward: Beyond Javascript clients: Emscripten and Webruby </b></br>
+First hour: <a href="lecture_05_27.pdf">Looking Forward:  Beyond Javascript Clients: asm.js</a></br>
+Second hour: <a href="lecture_05_27.pdf">Looking Forward: Beyond Javascript clients: Emscripten and Webruby </a></br>
 </p>
 </section>
 </ul>

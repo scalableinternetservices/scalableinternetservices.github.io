@@ -229,7 +229,7 @@ Second hour: <a href="lecture_05_27.pdf">Looking Forward: Beyond Javascript clie
 <p>
 <b>June 3, 2015</br></b>
 Pre-reading: Chapter 12 in High Performance Browser Networking</br>
-<b href="lecture_12_04.pdf">Looking Forward: HTTP 2.0 and QUIC</b></br>
+<a href="lecture_06_03.pdf">Looking Forward: HTTP 2.0 and QUIC</a></br>
 </p>
 </section>
 </ul>

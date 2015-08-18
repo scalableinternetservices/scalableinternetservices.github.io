@@ -29,19 +29,42 @@ showinnav: false
     <li>Read the list of <a href="#project_ideas">project suggestions</a></li>
     <li>Add your own project suggestions</li>
   </ul>
-  
+
+  <h2>Spring 2015 Projects</h2>
+  <ul>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Quotopia">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/victorious-Secret">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Fantastic4">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/U1F44D">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Atticus">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Team1024">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/GiftHub">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/ScalableMaster">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Gattlestar-Balactica">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/RubyCoders">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/yam">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Michelangelo">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Yeap">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Arpeggio">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/whatsup">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/MapKeep">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/AirBooks">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Newbie">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Questing-Adventurer">Description</a>.</li>
+  </ul>
+
   <h2>Fall 2014 Projects</h2>
   <ul>
-    <li><a href="https://github.com/scalableinternetservices/Gradr">A scalable automatic grading system</a>.</li>
-    <li><a href="https://github.com/scalableinternetservices/Compete">A competition tracking application</a>.</li>
-    <li><a href="https://github.com/scalableinternetservices/LaPlaya">Share programming projects like MIT's Scratch</a>.</li>
-    <li><a href="https://github.com/scalableinternetservices/BaconWindshield">Find and compare nearby surf spots</a>.</li>
-    <li><a href="https://github.com/scalableinternetservices/Upvid">Upload and share viral videos</a>.</li>
-    <li><a href="https://github.com/scalableinternetservices/Picshare">Send photos to strangers, and upvote/downvote them</a>.</li>
-    <li><a href="https://github.com/scalableinternetservices/Motley-Crew">Questmaster: gamification of everyday tasks</a>.</li>
-    <li><a href="https://github.com/scalableinternetservices/Xup">Find parties near you and share yours</a>.</li>
-    <li><a href="https://github.com/scalableinternetservices/Team-Hytta">An electronic cabin guest book</a>.</li>
-    <li><a href="https://github.com/scalableinternetservices/Suppr">Suppr: share meals with friends</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Gradr">A scalable automatic grading system</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Compete">A competition tracking application</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/LaPlaya">Share programming projects like MIT's Scratch</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/BaconWindshield">Find and compare nearby surf spots</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Upvid">Upload and share viral videos</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Picshare">Send photos to strangers, and upvote/downvote them</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Motley-Crew">Questmaster: gamification of everyday tasks</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Xup">Find parties near you and share yours</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Team-Hytta">An electronic cabin guest book</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Suppr">Suppr: share meals with friends</a>.</li>
     
   </ul>
 
@@ -79,7 +102,7 @@ showinnav: false
 
   <ul>
     <li>
-    <b>Sprint -1: Starts April 3, 2015.</b>
+    <b>Sprint -1: Starts October 2, 2015.</b>
     <ul>
       <li>Install Rails</li>
       <li>Learn Ruby</li>
@@ -89,7 +112,7 @@ showinnav: false
     </ul>
     </li>
     <li>
-    <b>Sprint 0: Starts April 10, 2015.</b>
+    <b>Sprint 0: Starts October 9, 2015.</b>
     <ul>
       <li>By the beginning of this sprint, you should have your team
       formed.</li>
@@ -102,7 +125,7 @@ showinnav: false
     </li>
 
     <li>
-    <b>Sprint 1: Starts April 17, 2015.</b>
+    <b>Sprint 1: Starts October 16, 2015.</b>
     <ul>
       <li>Get a blank rails app in your team's github repo.</li>
       <li>Learn TDD: get <a href="http://docs.travis-ci.com">Travis CI</a> working with your github repository</li>
@@ -113,7 +136,7 @@ showinnav: false
     </li>
 
     <li>
-    <b>Sprint 2: Starts April 24, 2015.</b>
+    <b>Sprint 2: Starts October 23, 2015.</b>
     <ul>
       <li>Conduct a retrospective on how the last sprint went and how
       you can improve.</li>
@@ -127,7 +150,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 2: Starts May 1, 2015.</b>
+    <b>Sprint 3: Starts October 30, 2015.</b>
     <ul>
       <li>Conduct a retrospective on how the last sprint went and how
       you can improve.</li>
@@ -142,7 +165,7 @@ showinnav: false
     </li>
 
     <li>
-    <b>Sprint 3: Starts May 8, 2015.</b>
+    <b>Sprint 4: Starts November 6, 2015.</b>
     <ul>
       <li>Conduct a retrospective on how the last sprint went and how
       you can improve.</li>
@@ -162,7 +185,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 4: Starts May 15, 2015.</b>
+    <b>Sprint 5: Starts November 13, 2015.</b>
     <ul>
       <li>Conduct a retrospective on how the last sprint went and how
       you can improve.</li>
@@ -178,7 +201,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 5: Starts May 22, 2015.</b>
+    <b>Sprint 6: Starts November 20, 2015.</b>
     <ul>
       <li>Conduct a retrospective on how the last sprint went and how
       you can improve.</li>
@@ -196,7 +219,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 6: Starts May 29, 2015.</b>
+    <b>Sprint 7: Starts November 27, 2015.</b>
     <ul>
       <li>Conduct a retrospective on how the last sprint went and how
       you can improve.</li>
@@ -210,7 +233,7 @@ showinnav: false
 
 
     <li>
-    <b>Writeup due and final presentations June 5.</b>
+    <b>Writeup due and final presentations Dec 3, Dec 4.</b>
 
 
   </ul>

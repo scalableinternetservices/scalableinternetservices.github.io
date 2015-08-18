@@ -32,25 +32,25 @@ showinnav: false
 
   <h2>Spring 2015 Projects</h2>
   <ul>
-    <li><a href="https://github.com/scalableinternetservicesarchive/Quotopia">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/victorious-Secret">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/Fantastic4">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/U1F44D">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/Atticus">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/Team1024">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/GiftHub">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/ScalableMaster">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/Gattlestar-Balactica">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/RubyCoders">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/yam">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/Michelangelo">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/Yeap">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/Arpeggio">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/whatsup">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/MapKeep">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/AirBooks">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/Newbie">Description</a>.</li>
-    <li><a href="https://github.com/scalableinternetservicesarchive/Questing-Adventurer">Description</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Quotopia">Reddit-style quote sharing website</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/victorious-Secret">An Uber for Anything</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Fantastic4">Visual voting for events</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/U1F44D">Yikyak meets Snapchat</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Atticus">Online clothing and merchandise hub</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Team1024">Virtual waiting in line</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/GiftHub">Gift exchange coordination system</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/ScalableMaster">Gathering activities</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Gattlestar-Balactica">Test bank for UCLA</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/RubyCoders">Univeristy admission application service</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/yam">Multiplayer gaming platform</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Michelangelo">Music sharing website</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Yeap">Yelp for places</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Arpeggio">Musical instrument marketplace</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/whatsup">Find events around you</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/MapKeep">A location-based note taking application</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/AirBooks">Renting and borrowing books</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Newbie">Food review, discount and discussion application</a>.</li>
+    <li><a href="https://github.com/scalableinternetservicesarchive/Questing-Adventurer">Delegate tasks as quests</a>.</li>
   </ul>
 
   <h2>Fall 2014 Projects</h2>

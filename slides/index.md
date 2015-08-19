@@ -102,8 +102,7 @@ Second hour: <b href="lecture_04_20.pdf">Deploying on AWS</b></br>
 <section>
 <p>
 <b>October 20, 2015</br></b>
-First hour: <b >Guest Lecture: Darren Mutz, Founder, Red Aspen Software</b></br>
-Second hour: <b >Technical Challenges in Content Delivery Networks</b></br>
+First hour: <b >Guest Lecture: TBD</b></br>
 </p>
 </section>
 </ul>

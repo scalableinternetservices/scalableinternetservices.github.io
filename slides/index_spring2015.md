@@ -9,12 +9,13 @@ showinnav: true
 <ul>
 <section>
 <p>
-<b>September 24, 2015</br></b>
-First hour: <b href="lecture_03_30.pdf">Introduction to Scalable Internet
-Services</b>
+<b>March 30, 2015</br></b>
+First hour: <a href="lecture_03_30.pdf">Introduction to Scalable
+Internet
+Services</a>
 </br>
 Second hour: 
-<b href="lecture_03_30.pdf">The lifecycle of a request on the web</b>
+<a href="lecture_03_30.pdf">The lifecycle of a request on the web</a>
 </br>
 Reading: Chapters 1 & 2 in High Performance Browser Networking</br>
 </p>
@@ -24,24 +25,28 @@ Reading: Chapters 1 & 2 in High Performance Browser Networking</br>
 <ul>
 <section>
 <p>
-<b>September 29, 2015</br></b>
-First hour: <b href="lecture_04_01.pdf">Introduction to HTTP</b>
+<b>April 1, 2015</br></b>
+First hour: <a href="lecture_04_01.pdf">Introduction to HTTP</a>
 </br>
-Second hour: <b href="lecture_04_01.pdf">Introduction to HTML and CSS</b>
+Second hour: <a href="lecture_04_01.pdf">Introduction to HTML and
+CSS</a>
 </br>
 Read and do chapters 1 and 2 from Agile Web Development with Rails.
-Continue working on <a href="http://www.codecademy.com/en/tracks/ruby/">Ruby Code Academy</a> (finish it by next week).
+Continue working on <a
+href="http://www.codecademy.com/en/tracks/ruby/">Ruby Code Academy</a>
+(finish it by next week).
 </section>
 </ul>
 
 <ul>
 <section>
 <p>
-<b>October 1, 2015</br></b>
-First hour: <b href="lecture_04_06.pdf">Working Software Quickly:
-Agile/Scrum</b><br>
-Second hour:<b href="lecture_04_06.pdf">Working Software Quickly: TDD, CI &
-Pairing</b><br>
+<b>April 6, 2015</br></b>
+First hour: <a href="lecture_04_06.pdf">Working Software Quickly:
+Agile/Scrum</a><br>
+Second hour:<a href="lecture_04_06.pdf">Working Software Quickly: TDD,
+CI &
+Pairing</a><br>
 </p>
 </section>
 </ul>
@@ -52,10 +57,14 @@ Pairing</b><br>
 <ul>
 <section>
 <p>
-<b>October 6, 2015</br></b>
-<!-- Pre-reading: <a href="https://cs.uwaterloo.ca/~brecht/papers/getpaper.php?file=eurosys-2007.pdf">Comparing the Performance of Web Server Architectures</a>, Pariag et al.</br> -->
-First hour: <b href="lecture_04_08.pdf">Efficient Use of Server Resources: App Server Architectures</b></br>
-Second hour: <b href="lecture_04_08.pdf">Efficient use of Server Resources: App Server Architectures, cont. </b></br>
+<b>April 8, 2015</br></b>
+<!-- Pre-reading: <a
+href="https://cs.uwaterloo.ca/~brecht/papers/getpaper.php?file=eurosys-2007.pdf">Comparing
+the Performance of Web Server Architectures</a>, Pariag et al.</br> -->
+First hour: <a href="lecture_04_08.pdf">Efficient Use of Server
+Resources: App Server Architectures</a></br>
+Second hour: <a href="lecture_04_08.pdf">Efficient use of Server
+Resources: App Server Architectures, cont. </a></br>
 </p>
 </section>
 </ul>
@@ -63,11 +72,13 @@ Second hour: <b href="lecture_04_08.pdf">Efficient use of Server Resources: App 
 <ul>
 <section>
 <p>
-<b>October 8, 2015<br></b>
-Pre-reading: <a href="http://www.ics.uci.edu/~cs230/reading/DLB.pdf">Dynamic Load Balancing on Web-server Systems. </a> Cardellini, Colajanni, Yu.<br>
-First hour: <b href="lecture_04_13.pdf">Vertical Scaling</b><br>
-Second hour: <b href="lecture_04_13.pdf">Horizontal Scaling with Load
-Balancing</b><br>
+<b>April 13, 2015<br></b>
+Pre-reading: <a
+href="http://www.ics.uci.edu/~cs230/reading/DLB.pdf">Dynamic Load
+Balancing on Web-server Systems. </a> Cardellini, Colajanni, Yu.<br>
+First hour: <a href="lecture_04_13.pdf">Vertical Scaling</a><br>
+Second hour: <a href="lecture_04_13.pdf">Horizontal Scaling with Load
+Balancing</a><br>
 </p>
 </section>
 </ul>
@@ -75,63 +86,10 @@ Balancing</b><br>
 <ul>
 <section>
 <p>
-<b>October 13, 2015<br></b>
-First hour: <b href="lecture_04_15.pdf">Architecting for High
-Availability</b><br>
-Second hour: <b href="lecture_04_15.pdf">Client-side Caching</b><br>
-</p>
-</section>
-</ul>
-
-
-
-<ul>
-<section>
-<p>
-<b>October 15, 2015</br></b>
-First hour: <b href="lecture_04_20.pdf">Server-side Caching</b></br>
-Second hour: <b href="lecture_04_20.pdf">Deploying on AWS</b></br>
-</p>
-</section>
-</ul>
-
-
-
-
-<ul>
-<section>
-<p>
-<b>October 20, 2015</br></b>
-First hour: <b >Guest Lecture: TBD</b></br>
-</p>
-</section>
-</ul>
-
-<ul>
-<section>
-<p>
-<b>October 22, 2015</br></b>
-First hour: <b href="lecture_04_27.pdf">A Stable Data Layer: Relational Databases</b></br>
-Second hour: <b href="lecture_04_27">Database Concurrency Control and Query Analysis</b></br>
-</p>
-</section>
-</ul>
-
-
-<ul>
-<section>
-<p>
-<b>October 27, 2015</br></b>
-First hour: <b href="lecture_04_29.pdf">RDBMSes and Sharding</b></br>
-Second hour: <b href="lecture_04_29.pdf">Service Oriented Architectures and Read Slaves</b></br>
-</p>
-</section>
-</ul>
-<ul>
-<section>
-<p>
-<b>October 29, 2015</br></b>
-<b href="lecture_05_04.pdf">Load testing with Tsung</b></br>
+<b>April 15, 2015<br></b>
+First hour: <a href="lecture_04_15.pdf">Architecting for High
+Availability</a><br>
+Second hour: <a href="lecture_04_15.pdf">Client-side Caching</a><br>
 </p>
 </section>
 </ul>
@@ -141,13 +99,74 @@ Second hour: <b href="lecture_04_29.pdf">Service Oriented Architectures and Read
 <ul>
 <section>
 <p>
-<b>November 3, 2015</br></b>
+<b>April 20, 2015</br></b>
+First hour: <a href="lecture_04_20.pdf">Server-side Caching</a></br>
+Second hour: <a href="lecture_04_20.pdf">Deploying on AWS</a></br>
+</p>
+</section>
+</ul>
+
+
+
+
+<ul>
+<section>
+<p>
+<b>April 22, 2015</br></b>
+First hour: <b >Guest Lecture: Darren Mutz, Founder, Red Aspen
+Software</b></br>
+Second hour: <b >Technical Challenges in Content Delivery
+Networks</b></br>
+</p>
+</section>
+</ul>
+
+<ul>
+<section>
+<p>
+<b>April 27, 2015</br></b>
+First hour: <a href="lecture_04_27.pdf">A Stable Data Layer: Relational
+Databases</a></br>
+Second hour: <a href="lecture_04_27">Database Concurrency Control and
+Query Analysis</a></br>
+</p>
+</section>
+</ul>
+
+
+<ul>
+<section>
+<p>
+<b>April 29, 2015</br></b>
+First hour: <a href="lecture_04_29.pdf">RDBMSes and Sharding</a></br>
+Second hour: <a href="lecture_04_29.pdf">Service Oriented Architectures
+and Read Slaves</a></br>
+</p>
+</section>
+</ul>
+<ul>
+<section>
+<p>
+<b>May 4, 2015</br></b>
+<a href="lecture_05_04.pdf">Load testing with Tsung</a></br>
+</p>
+</section>
+</ul>
+
+
+
+<ul>
+<section>
+<p>
+<b>May 6, 2015</br></b>
 Pre-reading: 
 <a
-href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP 12 years later</a> by Eric Brewer, 
+href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf">
+CAP 12 years later</a> by Eric Brewer, 
 <a href="vogels.pdf">Eventually Consistent</a> by Werner Vogels<br>
 Guest Lecture: TBD. <br>
-<b href="lecture_05_06.pdf"> Beyond SQL: Non-Relational Data Stores.</b></br>
+<a href="lecture_05_06.pdf"> Beyond SQL: Non-Relational Data
+Stores.</a></br>
 </p>
 </section>
 </ul>
@@ -155,10 +174,12 @@ Guest Lecture: TBD. <br>
 <ul>
 <section>
 <p>
-<b>November 5, 2015</br></b>
+<b>May 11, 2015</br></b>
 Pre-reading: Chapter 4 in High Performance Browser Networking.</br>
-First hour: <b href="lecture_05_11.pdf">Security basics: intro to HTTPS</b></br>
-Second hour: <b href="lecture_05_11.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</b></br>
+First hour: <a href="lecture_05_11.pdf">Security basics: intro to
+HTTPS</a></br>
+Second hour: <a href="lecture_05_11.pdf">Security basics: Firewalls,
+XSS, CSRF, SQL Injection</a></br>
 </p>
 </section>
 </ul>
@@ -167,8 +188,10 @@ Second hour: <b href="lecture_05_11.pdf">Security basics: Firewalls, XSS, CSRF, 
 <ul>
 <section>
 <p>
-<b>November 10, 2015</br></b>
-<b>Guest Lecture: TBD <br></b>
+<b>May 13, 2015</br></b>
+<b>Guest Lecture: Matt Aimonetti, CTO, Splice: <br>"Splice: architecting
+for
+scale in the cloud era"<br></b>
 </p>
 </section>
 </ul>
@@ -177,8 +200,10 @@ Second hour: <b href="lecture_05_11.pdf">Security basics: Firewalls, XSS, CSRF, 
 <ul>
 <section>
 <p>
-<b>November 12, 2015</br></b>
-<b>Guest Lecture: TBD</b><br> 
+<b>May 18, 2015</br></b>
+<b>Guest Lecture: Jan Gelin, Chief Architect, Rubicon Project:
+<br>"Scaling real time advertising trading platforms, and what the cloud
+provider didn’t tell you!"</b><br> 
 </p>
 </section>
 </ul>
@@ -186,10 +211,12 @@ Second hour: <b href="lecture_05_11.pdf">Security basics: Firewalls, XSS, CSRF, 
 <ul>
 <section>
 <p>
-<b>November 17, 2015</br></b>
+<b>May 20, 2015</br></b>
 Pre-reading: Chapter 15 in High Performance Browser Networking</br>
-First hour: <b href="lecture_05_20.pdf">Looking Forward: Client-side Renaissance.</b></br>
-Second hour: <b href="lecture_05_20.pdf">Looking Forward:   An Overview of ES 6</b></br>
+First hour: <a href="lecture_05_20.pdf">Looking Forward: Client-side
+Renaissance.</a></br>
+Second hour: <a href="lecture_05_20.pdf">Looking Forward:   An Overview
+of ES 6</a></br>
 </p>
 </section>
 </ul>
@@ -197,9 +224,19 @@ Second hour: <b href="lecture_05_20.pdf">Looking Forward:   An Overview of ES 6<
 <ul>
 <section>
 <p>
-<b>November 19, 2015</br></b>
-First hour: <b href="lecture_05_27.pdf">Looking Forward:  Beyond Javascript Clients: asm.js</b></br>
-Second hour: <b href="lecture_05_27.pdf">Looking Forward: Beyond Javascript clients: Emscripten and Webruby </b></br>
+<b>May 25, 2015</br></b>
+<em>Memorial day, No class</em>
+</p>
+</section>
+</ul>
+<ul>
+<section>
+<p>
+<b>May 27, 2015</br></b>
+First hour: <a href="lecture_05_27.pdf">Looking Forward:  Beyond
+Javascript Clients: asm.js</a></br>
+Second hour: <a href="lecture_05_27.pdf">Looking Forward: Beyond
+Javascript clients: Emscripten and Webruby </a></br>
 </p>
 </section>
 </ul>
@@ -207,16 +244,8 @@ Second hour: <b href="lecture_05_27.pdf">Looking Forward: Beyond Javascript clie
 <ul>
 <section>
 <p>
-<b>November 24, 2015</br></b>
-<b >Guest Lecture: TBD</b></br>
-</p>
-</section>
-</ul>
-<ul>
-<section>
-<p>
-<b>November 26, 2015</br></b>
-<em>Thanksgiving day, No class</em>
+<b>June 1, 2015</br></b>
+<b >Guest Lecture: Jon Walker, CTO, Appfolio</b></br>
 </p>
 </section>
 </ul>
@@ -225,10 +254,12 @@ Second hour: <b href="lecture_05_27.pdf">Looking Forward: Beyond Javascript clie
 <ul>
 <section>
 <p>
-<b>December 1, 2015</br></b>
+<b>June 3, 2015</br></b>
 Pre-reading: Chapter 12 in High Performance Browser Networking</br>
-<b href="lecture_06_03.pdf">Looking Forward: HTTP 2.0 and QUIC</b></br>
+<a href="lecture_06_03.pdf">Looking Forward: HTTP 2.0 and QUIC</a></br>
 </p>
 </section>
 </ul>
+
+
 

@@ -10,11 +10,8 @@ showinnav: true
 <section>
 <p>
 <b>September 24, 2015</br></b>
-First hour: <b href="lecture_03_30.pdf">Introduction to Scalable Internet
-Services</b>
-</br>
-Second hour: 
-<b href="lecture_03_30.pdf">The lifecycle of a request on the web</b>
+< href="lecture_2015_09_24.pdf">Introduction to Scalable Internet
+Services</a>
 </br>
 Reading: Chapters 1 & 2 in High Performance Browser Networking</br>
 </p>

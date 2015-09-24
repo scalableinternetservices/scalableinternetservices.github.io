@@ -10,7 +10,7 @@ showinnav: true
 <section>
 <p>
 <b>September 24, 2015</br></b>
-< href="lecture_2015_09_24.pdf">Introduction to Scalable Internet
+<a href="lecture_2015_09_24.pdf">Introduction to Scalable Internet
 Services</a>
 </br>
 Reading: Chapters 1 & 2 in High Performance Browser Networking</br>

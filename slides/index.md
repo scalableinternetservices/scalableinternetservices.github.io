@@ -172,7 +172,7 @@ Second hour: <b href="lecture_05_20.pdf">Looking Forward:   An Overview of ES 6<
 <section>
 <p>
 <b>November 12, 2015</br></b>
-First hour: <b >Guest Lecture: TBD</b></br>
+<b >Guest Lecture: Darren Mutz, Appfolio</b></br>
 </p>
 </section>
 </ul>

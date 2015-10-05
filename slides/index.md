@@ -81,7 +81,6 @@ Second hour: <b href="lecture_04_15.pdf">Client-side Caching</b><br>
 </ul>
 
 
-
 <ul>
 <section>
 <p>
@@ -93,21 +92,10 @@ Second hour: <b href="lecture_04_20.pdf">Deploying on AWS</b></br>
 </ul>
 
 
-
-
 <ul>
 <section>
 <p>
 <b>October 20, 2015</br></b>
-First hour: <b >Guest Lecture: TBD</b></br>
-</p>
-</section>
-</ul>
-
-<ul>
-<section>
-<p>
-<b>October 22, 2015</br></b>
 First hour: <b href="lecture_04_27.pdf">A Stable Data Layer: Relational Databases</b></br>
 Second hour: <b href="lecture_04_27">Database Concurrency Control and Query Analysis</b></br>
 </p>
@@ -118,7 +106,7 @@ Second hour: <b href="lecture_04_27">Database Concurrency Control and Query Anal
 <ul>
 <section>
 <p>
-<b>October 27, 2015</br></b>
+<b>October 22, 2015</br></b>
 First hour: <b href="lecture_04_29.pdf">RDBMSes and Sharding</b></br>
 Second hour: <b href="lecture_04_29.pdf">Service Oriented Architectures and Read Slaves</b></br>
 </p>
@@ -127,7 +115,7 @@ Second hour: <b href="lecture_04_29.pdf">Service Oriented Architectures and Read
 <ul>
 <section>
 <p>
-<b>October 29, 2015</br></b>
+<b>October 27, 2015</br></b>
 <b href="lecture_05_04.pdf">Load testing with Tsung</b></br>
 </p>
 </section>
@@ -138,7 +126,7 @@ Second hour: <b href="lecture_04_29.pdf">Service Oriented Architectures and Read
 <ul>
 <section>
 <p>
-<b>November 3, 2015</br></b>
+<b>October 29, 2015</br></b>
 Pre-reading: 
 <a
 href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP 12 years later</a> by Eric Brewer, 
@@ -152,7 +140,7 @@ Guest Lecture: TBD. <br>
 <ul>
 <section>
 <p>
-<b>November 5, 2015</br></b>
+<b>November 3, 2015</br></b>
 Pre-reading: Chapter 4 in High Performance Browser Networking.</br>
 First hour: <b href="lecture_05_11.pdf">Security basics: intro to HTTPS</b></br>
 Second hour: <b href="lecture_05_11.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</b></br>
@@ -160,6 +148,16 @@ Second hour: <b href="lecture_05_11.pdf">Security basics: Firewalls, XSS, CSRF, 
 </section>
 </ul>
 
+<ul>
+<section>
+<p>
+<b>November 5, 2015</br></b>
+Pre-reading: Chapter 15 in High Performance Browser Networking</br>
+First hour: <b href="lecture_05_20.pdf">Looking Forward: Client-side Renaissance.</b></br>
+Second hour: <b href="lecture_05_20.pdf">Looking Forward:   An Overview of ES 6</b></br>
+</p>
+</section>
+</ul>
 
 <ul>
 <section>
@@ -171,14 +169,11 @@ Second hour: <b href="lecture_05_11.pdf">Security basics: Firewalls, XSS, CSRF, 
 </ul>
 
 
-
 <ul>
 <section>
 <p>
 <b>November 12, 2015</br></b>
-Pre-reading: Chapter 15 in High Performance Browser Networking</br>
-First hour: <b href="lecture_05_20.pdf">Looking Forward: Client-side Renaissance.</b></br>
-Second hour: <b href="lecture_05_20.pdf">Looking Forward:   An Overview of ES 6</b></br>
+First hour: <b >Guest Lecture: TBD</b></br>
 </p>
 </section>
 </ul>

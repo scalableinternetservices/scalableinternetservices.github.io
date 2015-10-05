@@ -131,7 +131,6 @@ Pre-reading:
 <a
 href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP 12 years later</a> by Eric Brewer, 
 <a href="vogels.pdf">Eventually Consistent</a> by Werner Vogels<br>
-Guest Lecture: TBD. <br>
 <b href="lecture_05_06.pdf"> Beyond SQL: Non-Relational Data Stores.</b></br>
 </p>
 </section>

@@ -179,7 +179,7 @@ Second hour: <b href="lecture_05_20.pdf">Looking Forward:   An Overview of ES 6<
 <ul>
 <section>
 <p>
-<b>November 24, 2017</br></b>
+<b>November 17, 2017</br></b>
 First hour: <b href="lecture_05_27.pdf">Looking Forward:  Beyond Javascript Clients: asm.js</b></br>
 Second hour: <b href="lecture_05_27.pdf">Looking Forward: Beyond Javascript clients: Emscripten and Webruby </b></br>
 </p>

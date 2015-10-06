@@ -176,15 +176,16 @@ Second hour: <b href="lecture_05_20.pdf">Looking Forward:   An Overview of ES 6<
 </p>
 </section>
 </ul>
-
 <ul>
 <section>
 <p>
-<b>November 17, 2015</br></b>
-<b >Guest Lecture: Matt Aimonetti, CTO, Splice</b></br>
+<b>November 24, 2017</br></b>
+First hour: <b href="lecture_05_27.pdf">Looking Forward:  Beyond Javascript Clients: asm.js</b></br>
+Second hour: <b href="lecture_05_27.pdf">Looking Forward: Beyond Javascript clients: Emscripten and Webruby </b></br>
 </p>
 </section>
 </ul>
+
 
 <ul>
 <section>
@@ -194,16 +195,15 @@ Second hour: <b href="lecture_05_20.pdf">Looking Forward:   An Overview of ES 6<
 </p>
 </section>
 </ul>
-
 <ul>
 <section>
 <p>
 <b>November 24, 2015</br></b>
-First hour: <b href="lecture_05_27.pdf">Looking Forward:  Beyond Javascript Clients: asm.js</b></br>
-Second hour: <b href="lecture_05_27.pdf">Looking Forward: Beyond Javascript clients: Emscripten and Webruby </b></br>
+<b >Guest Lecture: Matt Aimonetti, CTO, Splice</b></br>
 </p>
 </section>
 </ul>
+
 
 <ul>
 <section>

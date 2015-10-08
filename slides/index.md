@@ -62,9 +62,9 @@ Second hour: <a href="lecture_2015_10_06.pdf">Efficient use of Server Resources:
 <p>
 <b>October 8, 2015<br></b>
 Pre-reading: <a href="http://www.ics.uci.edu/~cs230/reading/DLB.pdf">Dynamic Load Balancing on Web-server Systems. </a> Cardellini, Colajanni, Yu.<br>
-First hour: <b href="lecture_04_13.pdf">Vertical Scaling</b><br>
-Second hour: <b href="lecture_04_13.pdf">Horizontal Scaling with Load
-Balancing</b><br>
+First hour: <a href="lecture_2015_10_08.pdf">Vertical Scaling</a><br>
+Second hour: <a href="lecture_2015_10_08.pdf">Horizontal Scaling with Load
+Balancing</a><br>
 </p>
 </section>
 </ul>

@@ -96,8 +96,8 @@ Second hour: <a href="lecture_2015_10_15.pdf">Deploying on AWS</a></br>
 <section>
 <p>
 <b>October 20, 2015</br></b>
-First hour: <a href="lecture_10_20_2015.pdf">A Stable Data Layer: Relational Databases</a></br>
-Second hour: <a href="lecture_10_20_2015.pdf">Database Concurrency Control and Query Analysis</a></br>
+First hour: <a href="lecture_2015_10_20.pdf">A Stable Data Layer: Relational Databases</a></br>
+Second hour: <a href="lecture_2015_10_20.pdf">Database Concurrency Control and Query Analysis</a></br>
 </p>
 </section>
 </ul>

@@ -116,17 +116,23 @@ Second hour: <a href="lecture_2015_10_22.pdf">Service Oriented Architectures and
 <section>
 <p>
 <b>October 27, 2015</br></b>
-<b href="lecture_05_04.pdf">Load testing with Tsung</b></br>
+<a href="lecture_2015_10_27.pdf">Load testing with Tsung</a></br>
 </p>
 </section>
 </ul>
-
-
 
 <ul>
 <section>
 <p>
 <b>October 29, 2015</br></b>
+Lecture Cancelled
+</ul>
+
+
+<ul>
+<section>
+<p>
+<b>November 3, 2015</br></b>
 Pre-reading: 
 <a
 href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP 12 years later</a> by Eric Brewer, 
@@ -139,7 +145,7 @@ href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP
 <ul>
 <section>
 <p>
-<b>November 3, 2015</br></b>
+<b>November 5, 2015</br></b>
 Pre-reading: Chapter 4 in High Performance Browser Networking.</br>
 First hour: <b href="lecture_05_11.pdf">Security basics: intro to HTTPS</b></br>
 Second hour: <b href="lecture_05_11.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</b></br>

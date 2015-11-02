@@ -156,17 +156,6 @@ Second hour: <b href="lecture_05_11.pdf">Security basics: Firewalls, XSS, CSRF, 
 <ul>
 <section>
 <p>
-<b>November 5, 2015</br></b>
-Pre-reading: Chapter 15 in High Performance Browser Networking</br>
-First hour: <b href="lecture_05_20.pdf">Looking Forward: Client-side Renaissance.</b></br>
-Second hour: <b href="lecture_05_20.pdf">Looking Forward:   An Overview of ES 6</b></br>
-</p>
-</section>
-</ul>
-
-<ul>
-<section>
-<p>
 <b>November 10, 2015</br></b>
 <b>Guest Lecture: Sean Maloney, Riot Games <br></b>
 </p>
@@ -183,11 +172,13 @@ Second hour: <b href="lecture_05_20.pdf">Looking Forward:   An Overview of ES 6<
 </section>
 </ul>
 <ul>
+<ul>
 <section>
 <p>
-<b>November 17, 2017</br></b>
-First hour: <b href="lecture_05_27.pdf">Looking Forward:  Beyond Javascript Clients: asm.js</b></br>
-Second hour: <b href="lecture_05_27.pdf">Looking Forward: Beyond Javascript clients: Emscripten and Webruby </b></br>
+<b>November 17, 2015</br></b>
+Pre-reading: Chapter 15 in High Performance Browser Networking</br>
+First hour: <b href="lecture_05_20.pdf">Looking Forward: Client-side Renaissance.</b></br>
+Second hour: <b href="lecture_05_20.pdf">Looking Forward: ES2015, asm.js, Emscripten</b></br>
 </p>
 </section>
 </ul>

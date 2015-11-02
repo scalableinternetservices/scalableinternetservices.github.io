@@ -172,7 +172,6 @@ Second hour: <b href="lecture_05_11.pdf">Security basics: Firewalls, XSS, CSRF, 
 </section>
 </ul>
 <ul>
-<ul>
 <section>
 <p>
 <b>November 17, 2015</br></b>

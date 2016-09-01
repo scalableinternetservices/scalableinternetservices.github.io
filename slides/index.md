@@ -167,7 +167,9 @@ Second hour: <b href="lecture_2015_11_05.pdf">Security basics: Firewalls, XSS, C
 <section>
 <p>
 <b>November 10, 2016</br></b>
-<b >Guest Lecture: TBD</b></br>
+Pre-reading: Chapter 15 in High Performance Browser Networking</br>
+First hour: <b href="lecture_2015_11_17.pdf">Looking Forward: Client-side Renaissance.</b></br>
+Second hour: <b href="lecture_2015_11_17.pdf">Looking Forward: ES2015, asm.js, Emscripten</b></br>
 </p>
 </section>
 </ul>
@@ -175,9 +177,7 @@ Second hour: <b href="lecture_2015_11_05.pdf">Security basics: Firewalls, XSS, C
 <section>
 <p>
 <b>November 15, 2016</br></b>
-Pre-reading: Chapter 15 in High Performance Browser Networking</br>
-First hour: <b href="lecture_2015_11_17.pdf">Looking Forward: Client-side Renaissance.</b></br>
-Second hour: <b href="lecture_2015_11_17.pdf">Looking Forward: ES2015, asm.js, Emscripten</b></br>
+<b >Guest Lecture: Matt Aimonetti, CTO, Splice</b></br>
 </p>
 </section>
 </ul>

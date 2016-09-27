@@ -22,11 +22,11 @@ Reading: Chapters 1 & 2 in High Performance Browser Networking</br>
 <section>
 <p>
 <b>September 27, 2016</br></b>
-First hour: <b href="lecture_2015_09_29.pdf">The Lifecycle of a request, Introduction to HTTP</b>
+First hour: <a href="lecture_2016_09_27.pdf">The Lifecycle of a request, Introduction to HTTP</q>
 </br>
-Second hour: <b href="lecture_2015_09_29.pdf">Introduction to HTML and CSS</b>
+Second hour: <a href="lecture_2016_09_27.pdf">Introduction to HTML and CSS</a>
 </br>
-Read and do chapters 1 and 2 from Agile Web Development with Rails.
+Read and do chapters 1 and 2 from Michael Hartl's Ruby on Rails Tutorial Book.
 Continue working on <a href="http://www.codecademy.com/en/tracks/ruby/">Ruby Code Academy</a> (finish it by next week).
 </section>
 </ul>

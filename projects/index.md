@@ -24,8 +24,6 @@ showinnav: false
   <h2>Getting Started</h2>
 
   <ul>
-    <li>Follow Chapter 1 of the book (Agile Web Development with Rails 4)
-    for installation instructions of Rails for Windows, Mac, or Linux</li>
     <li>Read the list of <a href="#project_ideas">project suggestions</a></li>
     <li>Add your own project suggestions</li>
   </ul>

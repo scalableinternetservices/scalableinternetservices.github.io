@@ -108,7 +108,7 @@ showinnav: false
       <li>Learn Ruby</li>
       <li>Do <a href="http://www.codecademy.com/en/tracks/ruby">Ruby Code Academy</a></li>
       <li>Learn Rails</li>
-      <li>Read Chapters one through eight in Agile Web Development with Rails</li>
+      <li>Read Chapters one through seven in Michael Hartl's Ruby on Rails tutorial</li>
     </ul>
     </li>
     <li>
@@ -117,7 +117,7 @@ showinnav: false
       <li>By the beginning of this sprint, you should have your team
       formed.</li>
       <li>Determine your project, get approved by TA and professor.</li>
-      <li>Read chapters nine through seventeen in Agile Web Development with Rails</li>
+      <li>Read chapters eight through fourteen in Michael Hartl's Ruby on Rails tutorial</li>
       <li>If you don't know git, learn git: <a
       href="http://rogerdudler.github.io/git-guide/">simple guide</a>
       </li>
@@ -129,7 +129,7 @@ showinnav: false
     <ul>
       <li>Get a blank rails app in your team's github repo.</li>
       <li>Learn TDD: get <a href="http://docs.travis-ci.com">Travis CI</a> working with your github repository</li>
-      <li>Start writing stories for your project in pivotal tracker</li>
+      <li>Start writing stories for your project in Github projects</li>
       <li>Decide on a sprint commitment.</li>
       <li>Learn pairing by pairing up on the first few stories</li>
     </ul>

@@ -38,7 +38,7 @@ Continue working on <a href="http://www.codecademy.com/en/tracks/ruby/">Ruby Cod
 First hour: <a href="lecture_2016_09_29.pdf">Working Software Quickly:
 Agile/Scrum</a><br>
 Second hour:<a href="lecture_2016_09_29.pdf">Working Software Quickly: TDD, CI &
-Pairing</b><br>
+Pairing</a><br>
 </p>
 </section>
 </ul>

@@ -61,9 +61,9 @@ Second hour: <a href="lecture_2016_10_04.pdf">Efficient use of Server Resources:
 <section>
 <p>
 <b>October 6, 2016<br></b>
-First hour: <b href="lecture_2015_10_08.pdf">Vertical Scaling</b><br>
-Second hour: <b href="lecture_2015_10_08.pdf">Horizontal Scaling with Load
-Balancing</b><br>
+First hour: <a href="lecture_2016_10_06.pdf">Vertical Scaling</a><br>
+Second hour: <a href="lecture_2016_10_06.pdf">Horizontal Scaling with Load
+Balancing</a><br>
 </p>
 </section>
 </ul>

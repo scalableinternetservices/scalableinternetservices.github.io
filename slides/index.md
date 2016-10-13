@@ -84,8 +84,8 @@ Second hour: <a href="lecture_2016_10_11.pdf">Client-side Caching</a><br>
 <section>
 <p>
 <b>October 13, 2016</br></b>
-First hour: <b href="lecture_2015_10_15.pdf">Server-side Caching</b></br>
-Second hour: <b href="lecture_2015_10_15.pdf">Deploying on AWS</b></br>
+First hour: <a href="lecture_2016_10_13.pdf">Server-side Caching</a></br>
+Second hour: <a href="lecture_2016_10_13.pdf">Deploying on AWS</a></br>
 </p>
 </section>
 </ul>

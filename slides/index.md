@@ -111,27 +111,11 @@ Second hour: <a href="lecture_2016_10_20.pdf">Service Oriented Architectures and
 </p>
 </section>
 </ul>
+
 <ul>
 <section>
 <p>
 <b>October 25, 2016</br></b>
-<b href="lecture_2015_10_27.pdf">Load testing with Tsung</b></br>
-</p>
-</section>
-</ul>
-
-<ul>
-<section>
-<p>
-<b>October 27, 2016</br></b>
-TBD
-</ul>
-
-
-<ul>
-<section>
-<p>
-<b>November 1, 2016</br></b>
 Pre-reading: 
 <a
 href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP 12 years later</a> by Eric Brewer, 
@@ -140,6 +124,23 @@ href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP
 </p>
 </section>
 </ul>
+
+<ul>
+<section>
+<p>
+<b>October 27, 2016</br></b>
+<b href="lecture_2015_10_27.pdf">Load testing with Tsung</b></br>
+</p>
+</section>
+</ul>
+
+<ul>
+<section>
+<p>
+<b>November 1, 2016</br></b>
+TBD
+</ul>
+
 
 <ul>
 <section>

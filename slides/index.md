@@ -106,8 +106,8 @@ Second hour: <a href="lecture_2016_10_18.pdf">Database Concurrency Control and Q
 <section>
 <p>
 <b>October 20, 2016</br></b>
-First hour: <b href="lecture_2015_10_22.pdf">RDBMSes and Sharding</b></br>
-Second hour: <b href="lecture_2015_10_22.pdf">Service Oriented Architectures and Read Slaves</b></br>
+First hour: <a href="lecture_2016_10_20.pdf">RDBMSes and Sharding</a></br>
+Second hour: <a href="lecture_2016_10_20.pdf">Service Oriented Architectures and Read Slaves</a></br>
 </p>
 </section>
 </ul>

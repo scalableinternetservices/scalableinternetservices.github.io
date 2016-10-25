@@ -120,7 +120,7 @@ Pre-reading:
 <a
 href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP 12 years later</a> by Eric Brewer, 
 <a href="vogels.pdf">Eventually Consistent</a> by Werner Vogels<br>
-<b href="lecture_2015_11_03.pdf"> Beyond SQL: Non-Relational Data Stores.</b></br>
+<a href="lecture_2016_10_25.pdf"> Beyond SQL: Non-Relational Data Stores.</a></br>
 </p>
 </section>
 </ul>
@@ -180,6 +180,16 @@ Second hour: <b href="lecture_2015_11_05.pdf">Security basics: Firewalls, XSS, C
 </section>
 </ul>
 
+<ul>
+<section>
+<p>
+<b>November 17, 2016</br></b>
+<em>Guest Lecture: TBD</em>
+</p>
+</section>
+</ul>
+
+
 
 <ul>
 <section>
@@ -200,15 +210,6 @@ Second hour: <b href="lecture_2015_11_17.pdf">Looking Forward: ES2015, asm.js, E
 </section>
 </ul>
 
-
-<ul>
-<section>
-<p>
-<b>November 26, 2016</br></b>
-<em>Guest Lecture: TBD</em>
-</p>
-</section>
-</ul>
 
 
 <ul>

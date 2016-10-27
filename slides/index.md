@@ -129,7 +129,7 @@ href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP
 <section>
 <p>
 <b>October 27, 2016</br></b>
-<b href="lecture_2015_10_27.pdf">Load testing with Tsung</b></br>
+<a href="lecture_2016_10_27.pdf">Load testing with Tsung</a></br>
 </p>
 </section>
 </ul>

@@ -138,20 +138,21 @@ href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP
 <section>
 <p>
 <b>November 1, 2016</br></b>
-TBD
-</ul>
-
-
-<ul>
-<section>
-<p>
-<b>November 3, 2016</br></b>
 Pre-reading: Chapter 4 in High Performance Browser Networking.</br>
 First hour: <b href="lecture_2015_11_05.pdf">Security basics: intro to HTTPS</b></br>
 Second hour: <b href="lecture_2015_11_05.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</b></br>
 </p>
 </section>
 </ul>
+
+<ul>
+<section>
+<p>
+<b>November 3, 2016</br></b>
+<b>Guest Lecture: Chehai Wu, Principal Software Engineer, Appfolio <br></b>
+</ul>
+
+
 
 <ul>
 <section>

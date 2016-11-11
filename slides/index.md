@@ -149,7 +149,7 @@ Second hour: <1 href="lecture_2015_11_01.pdf">Security basics: Firewalls, XSS, C
 <section>
 <p>
 <b>November 3, 2016</br></b>
-<b>Guest Lecture: Chehai Wu, Principal Software Engineer, Appfolio <br></b>
+<a href="wu_2016.pdf">Guest Lecture: Chehai Wu, Principal Software Engineer, Aapfolio <br></a>
 </ul>
 
 
@@ -158,7 +158,7 @@ Second hour: <1 href="lecture_2015_11_01.pdf">Security basics: Firewalls, XSS, C
 <section>
 <p>
 <b>November 8, 2016</br></b>
-<b>Guest Lecture: Sean Maloney, Riot Games <br></b>
+<a href="maloney_2016.pdf">Guest Lecture: Sean Maloney, Riot Games <br></a>
 </p>
 </section>
 </ul>
@@ -168,7 +168,7 @@ Second hour: <1 href="lecture_2015_11_01.pdf">Security basics: Firewalls, XSS, C
 <section>
 <p>
 <b>November 10, 2016</br></b>
-<b> Guest Lecture: Imran Patel, Snapchat </b>
+<b> Guest Lecture: Imran Patel, Snapchat  - Lecture cancelled</b>
 </p>
 </section>
 </ul>

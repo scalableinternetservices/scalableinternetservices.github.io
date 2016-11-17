@@ -181,27 +181,29 @@ Second hour: <1 href="lecture_2015_11_01.pdf">Security basics: Firewalls, XSS, C
 </section>
 </ul>
 
+
+
 <ul>
 <section>
 <p>
 <b>November 17, 2016</br></b>
+Pre-reading: Chapter 15 in High Performance Browser Networking</br>
+First hour: <a href="lecture_2016_11_17.pdf">Looking Forward: Client-side Renaissance.</a></br>
+Second hour: <a href="lecture_2016_11_17.pdf">Looking Forward: ES2015, asm.js, Emscripten</a></br>
+</p>
+</section>
+</ul>
+
+<ul>
+<section>
+<p>
+<b>November 22, 2016</br></b>
 <em>Guest Lecture: TBD</em>
 </p>
 </section>
 </ul>
 
 
-
-<ul>
-<section>
-<p>
-<b>November 22, 2016</br></b>
-Pre-reading: Chapter 15 in High Performance Browser Networking</br>
-First hour: <b href="lecture_2015_11_17.pdf">Looking Forward: Client-side Renaissance.</b></br>
-Second hour: <b href="lecture_2015_11_17.pdf">Looking Forward: ES2015, asm.js, Emscripten</b></br>
-</p>
-</section>
-</ul>
 <ul>
 <section>
 <p>

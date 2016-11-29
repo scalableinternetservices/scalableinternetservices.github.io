@@ -198,7 +198,7 @@ Second hour: <a href="lecture_2016_11_17.pdf">Looking Forward: ES2015, asm.js, E
 <p>
 <b>November 22, 2016</br></b>
 Pre-reading: Chapter 12 in High Performance Browser Networking</br>
-<b href="lecture_2015_12_01.pdf">Looking Forward: HTTP 2.0 and QUIC</b></br>
+<a href="lecture_2016_11_22.pdf">Looking Forward: HTTP 2.0 and QUIC</a></br>
 </p>
 </section>
 </ul>
@@ -220,7 +220,7 @@ Pre-reading: Chapter 12 in High Performance Browser Networking</br>
 <section>
 <p>
 <b>November 29, 2016</br></b>
-<b href="lecture_2015_12_01.pdf">Content Delivery Networks and Virtualization</b></br>
+<a href="lecture_2016_11_29.pdf">Content Delivery Networks and Virtualization</a></br>
 </p>
 </section>
 </ul>

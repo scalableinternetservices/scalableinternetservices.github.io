@@ -140,7 +140,7 @@ href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP
 <b>November 1, 2016</br></b>
 Pre-reading: Chapter 4 in High Performance Browser Networking.</br>
 First hour: <a href="lecture_2016_11_01.pdf">Security basics: intro to HTTPS</a></br>
-Second hour: <1 href="lecture_2015_11_01.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</a></br>
+Second hour: <a href="lecture_2015_11_01.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</a></br>
 </p>
 </section>
 </ul>

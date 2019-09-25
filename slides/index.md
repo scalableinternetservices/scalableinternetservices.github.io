@@ -148,6 +148,7 @@ showinnav: true
 		<p>
 		<b>November 3, 2016<br></b>
 		Guest Lecture: Chehai Wu, Principal Software Engineer, Aapfolio <br>
+</p>
 </section>
 </ul>
 

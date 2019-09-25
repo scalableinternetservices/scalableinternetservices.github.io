@@ -100,7 +100,7 @@ showinnav: false
 
   <ul>
     <li>
-    <b>Sprint -1: Starts September 30, 2016.</b>
+    <b>Sprint -1: Starts October 4, 2019.</b>
     <ul>
       <li>Install Rails</li>
       <li>Learn Ruby</li>
@@ -110,7 +110,7 @@ showinnav: false
     </ul>
     </li>
     <li>
-    <b>Sprint 0: Starts October 7, 2016.</b>
+    <b>Sprint 0: Starts October 11, 2019.</b>
     <ul>
       <li>By the beginning of this sprint, you should have your team
       formed.</li>
@@ -123,7 +123,7 @@ showinnav: false
     </li>
 
     <li>
-    <b>Sprint 1: Starts October 14, 2016.</b>
+    <b>Sprint 1: Starts October 18, 2019.</b>
     <ul>
       <li>Get a blank rails app in your team's github repo.</li>
       <li>Learn TDD: get <a href="http://docs.travis-ci.com">Travis CI</a> working with your github repository</li>
@@ -134,7 +134,7 @@ showinnav: false
     </li>
 
     <li>
-    <b>Sprint 2: Starts October 21, 2016.</b>
+    <b>Sprint 2: Starts October 25, 2019.</b>
     <ul>
       <li>Conduct a retrospective on how the last sprint went and how
       you can improve.</li>
@@ -148,7 +148,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 3: Starts October 28, 2016.</b>
+    <b>Sprint 3: Starts Nov 1, 2019.</b>
     <ul>
       <li>Conduct a retrospective on how the last sprint went and how
       you can improve.</li>
@@ -163,7 +163,7 @@ showinnav: false
     </li>
 
     <li>
-    <b>Sprint 4: Starts November 4, 2016.</b>
+    <b>Sprint 4: Starts November 8, 2019.</b>
     <ul>
       <li>Conduct a retrospective on how the last sprint went and how
       you can improve.</li>
@@ -183,7 +183,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 5: Starts November 11, 2016.</b>
+    <b>Sprint 5: Starts November 15, 2019.</b>
     <ul>
       <li>Conduct a retrospective on how the last sprint went and how
       you can improve.</li>
@@ -199,7 +199,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 6: Starts November 18, 2016.</b>
+    <b>Sprint 6: Starts November 22, 2019.</b>
     <ul>
       <li>Conduct a retrospective on how the last sprint went and how
       you can improve.</li>
@@ -217,7 +217,7 @@ showinnav: false
 
 
     <li>
-    <b>Sprint 7: Starts November 25, 2016.</b>
+    <b>Sprint 7: Starts November 29, 2016.</b>
     <ul>
       <li>Conduct a retrospective on how the last sprint went and how
       you can improve.</li>
@@ -231,7 +231,7 @@ showinnav: false
 
 
     <li>
-    <b>Writeup due and final presentations Dec 1, Dec 2.</b>
+    <b>Writeup due and final presentations Dec 6.</b>
 
 
   </ul>

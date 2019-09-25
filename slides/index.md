@@ -9,8 +9,8 @@ showinnav: true
 <ul>
 	<section>
 		<p>
-		<b>September 22, 2016<br></b>
-		<a href="lecture_2016_09_22.pdf">Introduction to Scalable Internet
+		<b>September 26, 2019<br></b>
+		Introduction to Scalable Internet
 			Services</a>
 		<br>
 		Reading: Chapters 1 & 2 in High Performance Browser Networking<br>
@@ -21,10 +21,10 @@ showinnav: true
 <ul>
 	<section>
 		<p>
-		<b>September 27, 2016<br></b>
-		First hour: <a href="lecture_2016_09_27.pdf">The Lifecycle of a request, Introduction to HTTP</a>
+		<b>October 1, 2016<br></b>
+		First hour: <na href="lecture_2016_09_27.pdf">The Lifecycle of a request, Introduction to HTTP</a>
 		<br>
-		Second hour: <a href="lecture_2016_09_27.pdf">Introduction to HTML and CSS</a>
+		Second hour: <na href="lecture_2016_09_27.pdf">Introduction to HTML and CSS</a>
 		<br>
 		Read and do chapters 1 and 2 from Michael Hartl's Ruby on Rails Tutorial Book.
 		Continue working on <a href="http://www.codecademy.com/en/tracks/ruby/">Ruby Code Academy</a> (finish it by next week )

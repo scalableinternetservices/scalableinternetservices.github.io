@@ -28,6 +28,7 @@ showinnav: true
 		<br>
 		Read and do chapters 1 and 2 from Michael Hartl's Ruby on Rails Tutorial Book.
 		Continue working on Ruby Code Academy (http://www.codecademy.com/en/tracks/ruby/)
+</p>
 </section>
 </ul>
 

@@ -11,7 +11,7 @@ showinnav: true
 		<p>
 		<b>September 26, 2019<br></b>
 		Introduction to Scalable Internet
-			Services</a>
+			Services
 		<br>
 		Reading: Chapters 1 & 2 in High Performance Browser Networking<br>
 		</p>
@@ -22,9 +22,9 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 1, 2016<br></b>
-		First hour: <na href="lecture_2016_09_27.pdf">The Lifecycle of a request, Introduction to HTTP</a>
+		First hour: The Lifecycle of a request, Introduction to HTTP
 		<br>
-		Second hour: <na href="lecture_2016_09_27.pdf">Introduction to HTML and CSS</a>
+		Second hour: Introduction to HTML and CSS
 		<br>
 		Read and do chapters 1 and 2 from Michael Hartl's Ruby on Rails Tutorial Book.
 		Continue working on <a href="http://www.codecademy.com/en/tracks/ruby/">Ruby Code Academy</a> (finish it by next week )
@@ -36,10 +36,10 @@ showinnav: true
 	<section>
 		<p>
 		<b>September 29, 2016<br></b>
-		First hour: <a href="lecture_2016_09_29.pdf">Working Software Quickly:
-			Agile/Scrum</a><br>
-		Second hour:<a href="lecture_2016_09_29.pdf">Working Software Quickly: TDD, CI &
-			Pairing</a><br>
+		First hour: Working Software Quickly:
+			Agile/Scrum<br>
+		Second hour:Working Software Quickly: TDD, CI &
+			Pairing<br>
 		</p>
 	</section>
 </ul>
@@ -52,8 +52,8 @@ showinnav: true
 		<p>
 		<b>October 4, 2016<br></b>
 		<!-- Pre-reading: <a href="https://cs.uwaterloo.ca/~brecht/papers/getpaper.php?file=eurosys-2007.pdf">Comparing the Performance of Web Server Architectures</a>, Pariag et al.<br> -->
-		First hour: <a href="lecture_2016_10_04.pdf">Efficient Use of Server Resources: App Server Architectures</a><br>
-		Second hour: <a href="lecture_2016_10_04.pdf">Efficient use of Server Resources: App Server Architectures, cont. </a><br>
+		First hour: Efficient Use of Server Resources: App Server Architectures<br>
+		Second hour: Efficient use of Server Resources: App Server Architectures, cont.<br>
 		</p>
 	</section>
 </ul>
@@ -62,9 +62,9 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 6, 2016<br></b>
-		First hour: <a href="lecture_2016_10_06.pdf">Vertical Scaling</a><br>
-		Second hour: <a href="lecture_2016_10_06.pdf">Horizontal Scaling with Load
-			Balancing</a><br>
+		First hour: Vertical Scaling<br>
+		Second hour: Horizontal Scaling with Load
+			Balancing<br>
 		</p>
 	</section>
 </ul>
@@ -73,9 +73,9 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 11, 2016<br></b>
-		First hour: <a href="lecture_2016_10_11.pdf">Architecting for High
-			Availability</a><br>
-		Second hour: <a href="lecture_2016_10_11.pdf">Client-side Caching</a><br>
+		First hour: Architecting for High
+			Availability<br>
+		Second hour: Client-side Caching<br>
 		</p>
 	</section>
 </ul>
@@ -85,8 +85,8 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 13, 2016<br></b>
-		First hour: <a href="lecture_2016_10_13.pdf">Server-side Caching</a><br>
-		Second hour: <a href="lecture_2016_10_13.pdf">Deploying on AWS</a><br>
+		First hour: Server-side Caching<br>
+		Second hour: Deploying on AWS<br>
 		</p>
 	</section>
 </ul>
@@ -96,8 +96,8 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 18, 2016<br></b>
-		First hour: <a href="lecture_2016_10_18.pdf">A Stable Data Layer: Relational Databases</a><br>
-		Second hour: <a href="lecture_2016_10_18.pdf">Database Concurrency Control and Query Analysis</a><br>
+		First hour: A Stable Data Layer: Relational Databases<br>
+		Second hour: Database Concurrency Control and Query Analysis<br>
 		</p>
 	</section>
 </ul>
@@ -107,8 +107,8 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 20, 2016<br></b>
-		First hour: <a href="lecture_2016_10_20.pdf">RDBMSes and Sharding</a><br>
-		Second hour: <a href="lecture_2016_10_20.pdf">Service Oriented Architectures and Read Slaves</a><br>
+		First hour: RDBMSes and Sharding<br>
+		Second hour: Service Oriented Architectures and Read Slaves<br>
 		</p>
 	</section>
 </ul>
@@ -118,10 +118,7 @@ showinnav: true
 		<p>
 		<b>October 25, 2016<br></b>
 		Pre-reading: 
-		<a
-		  href="http://www.realtechsupport.org/UB/NP/Numeracy_CAP%2B12Years_2012.pdf"> CAP 12 years later</a> by Eric Brewer, 
-	  <a href="vogels.pdf">Eventually Consistent</a> by Werner Vogels<br>
-	  <a href="lecture_2016_10_25.pdf"> Beyond SQL: Non-Relational Data Stores.</a><br>
+	   Beyond SQL: Non-Relational Data Stores.<br>
 		</p>
 	</section>
 </ul>
@@ -130,7 +127,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 27, 2016<br></b>
-		<a href="lecture_2016_10_27.pdf">Load testing with Tsung</a><br>
+		Load testing with Tsung<br>
 		</p>
 	</section>
 </ul>
@@ -140,8 +137,8 @@ showinnav: true
 		<p>
 		<b>November 1, 2016<br></b>
 		Pre-reading: Chapter 4 in High Performance Browser Networking.<br>
-		First hour: <a href="lecture_2016_11_01.pdf">Security basics: intro to HTTPS</a><br>
-		Second hour: <a href="lecture_2015_11_01.pdf">Security basics: Firewalls, XSS, CSRF, SQL Injection</a><br>
+		First hour: Security basics: intro to HTTPS<br>
+		Second hour: Security basics: Firewalls, XSS, CSRF, SQL Injection<br>
 		</p>
 	</section>
 </ul>
@@ -150,7 +147,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 3, 2016<br></b>
-		<a href="wu_2016.pdf">Guest Lecture: Chehai Wu, Principal Software Engineer, Aapfolio <br></a>
+		Guest Lecture: Chehai Wu, Principal Software Engineer, Aapfolio <br>
 </ul>
 
 
@@ -159,7 +156,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 8, 2016<br></b>
-		<a href="maloney_2016.pdf">Guest Lecture: Sean Maloney, Riot Games <br></a>
+		Guest Lecture: Sean Maloney, Riot Games <br>
 		</p>
 	</section>
 </ul>
@@ -189,8 +186,8 @@ showinnav: true
 		<p>
 		<b>November 17, 2016<br></b>
 		Pre-reading: Chapter 15 in High Performance Browser Networking<br>
-		First hour: <a href="lecture_2016_11_17.pdf">Looking Forward: Client-side Renaissance.</a><br>
-		Second hour: <a href="lecture_2016_11_17.pdf">Looking Forward: ES2015, asm.js, Emscripten</a><br>
+		First hour: Looking Forward: Client-side Renaissance.<br>
+		Second hour: Looking Forward: ES2015, asm.js, Emscripten<br>
 		</p>
 	</section>
 </ul>
@@ -199,7 +196,7 @@ showinnav: true
 		<p>
 		<b>November 22, 2016<br></b>
 		Pre-reading: Chapter 12 in High Performance Browser Networking<br>
-		<a href="lecture_2016_11_22.pdf">Looking Forward: HTTP 2.0 and QUIC</a><br>
+		Looking Forward: HTTP 2.0 and QUIC<br>
 		</p>
 	</section>
 </ul>
@@ -221,7 +218,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 29, 2016<br></b>
-		<a href="lecture_2016_11_29.pdf">Content Delivery Networks and Virtualization</a><br>
+		Content Delivery Networks and Virtualization<br>
 		</p>
 	</section>
 </ul>

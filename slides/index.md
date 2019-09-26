@@ -10,8 +10,8 @@ showinnav: true
 	<section>
 		<p>
 		<b>September 26, 2019<br></b>
-		Introduction to Scalable Internet
-			Services
+		<a href="lecture_2019_09_26.pdf">Introduction to Scalable Internet
+			Services</a>
 		<br>
 		Reading: Chapters 1 & 2 in High Performance Browser Networking<br>
 		</p>

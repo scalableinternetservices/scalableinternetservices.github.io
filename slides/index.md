@@ -22,6 +22,8 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 1, 2019<br></b>
+		<a href="lecture_2019_10_01.pdf">Introduction to HTTP, HTML, CSS</a>
+		<br>
 		First hour: The Lifecycle of a request, Introduction to HTTP
 		<br>
 		Second hour: Introduction to HTML and CSS

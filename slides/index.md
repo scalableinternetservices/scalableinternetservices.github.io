@@ -38,10 +38,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 3, 2019<br></b>
-		First hour: Working Software Quickly:
-			Agile/Scrum<br>
-		Second hour:Working Software Quickly: TDD, CI &
-			Pairing<br>
+		<a href="lecture_2019_10_03.pdf">Agile/Scrum, TDD, CI & Pairing</a>
 		</p>
 	</section>
 </ul>

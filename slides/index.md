@@ -51,7 +51,7 @@ showinnav: true
 		<p>
 		<b>October 8, 2019<br></b>
 		<!-- Pre-reading: <a href="https://cs.uwaterloo.ca/~brecht/papers/getpaper.php?file=eurosys-2007.pdf">Comparing the Performance of Web Server Architectures</a>, Pariag et al.<br> -->
-		<a href="lecture_2019_10_08.pdf">HTTP & Application Server Architectures</a>
+		<a href="lecture_2019_10_08.pdf">HTTP & Application Server Architectures</a><br>
 		First hour: Efficient Use of Server Resources: App Server Architectures<br>
 		Second hour: Efficient use of Server Resources: App Server Architectures, cont.<br>
 		</p>

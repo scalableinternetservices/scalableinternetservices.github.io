@@ -62,9 +62,8 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 10, 2019<br></b>
-		First hour: Vertical Scaling<br>
-		Second hour: Horizontal Scaling with Load
-			Balancing<br>
+		<a href="lecture_2019_10_10.pdf">Vertical and Horizontal Scaling</a>
+
 		</p>
 	</section>
 </ul>

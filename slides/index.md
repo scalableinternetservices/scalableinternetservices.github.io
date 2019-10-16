@@ -72,10 +72,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 15, 2019<br></b>
-		First hour: Architecting for High
-			Availability<br>
-		Second hour: How to deploy on AWS<br>
-		<a href="lecture_2019_10_15.pdf">Lecture Slides</a>
+		<a href="lecture_2019_10_15.pdf">Archicting for High Availability, How to deploy on AWS</a><br>
 		</p>
 	</section>
 </ul>

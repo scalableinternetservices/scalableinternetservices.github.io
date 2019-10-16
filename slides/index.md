@@ -75,6 +75,7 @@ showinnav: true
 		First hour: Architecting for High
 			Availability<br>
 		Second hour: How to deploy on AWS<br>
+		<a href="lecture_2019_10_15.pdf">Lecture Slides</a>
 		</p>
 	</section>
 </ul>

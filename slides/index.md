@@ -82,7 +82,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 17, 2019<br></b>
-		First hour: Client-side and Server-side Caching<br>
+		<a href="lecture_2019_10_17.pdf">Caching on the client and the server</a><br>
 		</p>
 	</section>
 </ul>

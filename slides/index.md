@@ -92,6 +92,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 22, 2019<br></b>
+		<a href="lecture_2019_10_22.pdf">Relational databases, concurrency, and optimization</a><br>
 		First hour: A Stable Data Layer: Relational Databases<br>
 		Second hour: Database Concurrency Control and Query Analysis<br>
 		</p>

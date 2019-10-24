@@ -104,7 +104,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 24, 2019<br></b>
-		Load testing with Tsung<br>
+		<a href="lecture_2019_10_24.pdf">Load Testing with Tsung</a><br>
 		</p>
 	</section>
 </ul>

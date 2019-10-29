@@ -113,7 +113,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 29, 2019<br></b>
-	   Beyond SQL: Non-Relational Data Stores.<br>
+	  <a href="lecture_2019_10_29.pdf">Beyond SQL: Non-Relational Data Stores</a><br>
 		</p>
 	</section>
 </ul>

@@ -122,8 +122,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>October 31, 2019<br></b>
-		First hour: RDBMSes and Sharding<br>
-		Second hour: Service Oriented Architectures and Read Slaves<br>
+	  <a href="lecture_2019_10_31.pdf">Scaling relational databases: sharding, services and read-slaves</a><br>
 		</p>
 	</section>
 </ul>

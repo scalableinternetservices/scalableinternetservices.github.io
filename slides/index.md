@@ -131,9 +131,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 5, 2019<br></b>
-		Pre-reading: Chapter 4 in High Performance Browser Networking.<br>
-		First hour: Security basics: intro to HTTPS<br>
-		Second hour: Security basics: Firewalls, XSS, CSRF, SQL Injection<br>
+			Client-side rendering
 		</p>
 	</section>
 </ul>
@@ -142,7 +140,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 7, 2019<br></b>
-		Guest Lecture: TBA <br>
+		Guest Lecture: Ivan Chub, GraphQL <br>
 </p>
 </section>
 </ul>

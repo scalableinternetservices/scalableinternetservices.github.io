@@ -131,7 +131,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 5, 2019<br></b>
-			Client-side rendering
+		<a href="lecture_2019_11_05.pdf">Client-side rendering</a><br>
 		</p>
 	</section>
 </ul>
@@ -140,8 +140,8 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 7, 2019<br></b>
-		Guest Lecture: Ivan Chub, GraphQL <br>
-</p>
+		<a href="lecture_2019_11_08.pdf">Guest Lecture: Ivan Chub, GraphQL</a><br>
+		</p>
 </section>
 </ul>
 

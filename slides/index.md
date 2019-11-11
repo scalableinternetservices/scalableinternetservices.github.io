@@ -151,7 +151,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 12, 2019<br></b>
-		Guest Lecture: TBA <br>
+		Guest Lecture: DC Posch, Serverless Computing with Lambda <br>
 		</p>
 	</section>
 </ul>
@@ -161,7 +161,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 14, 2019<br></b>
-		<b> Guest Lecture: TBA</b>
+		Content Distribution Networks and Security
 		</p>
 	</section>
 </ul>
@@ -169,7 +169,8 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 19, 2019<br></b>
-		<b >Guest Lecture: TBA</b><br>
+		Pre-reading: Chapter 12 in High Performance Browser Networking<br>
+		HTTP/2 and QUIC <br>
 		</p>
 	</section>
 </ul>
@@ -180,9 +181,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 21, 2019<br></b>
-		Pre-reading: Chapter 15 in High Performance Browser Networking<br>
-		First hour: Looking Forward: Client-side Renaissance.<br>
-		Second hour: Looking Forward: ES2015, asm.js, Emscripten<br>
+		Systems of Intelligence
 		</p>
 	</section>
 </ul>
@@ -190,8 +189,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 26, 2019<br></b>
-		Pre-reading: Chapter 12 in High Performance Browser Networking<br>
-		Looking Forward: HTTP 2.0 and QUIC<br>
+		Microservices, Containers and Kubernetes<br>
 		</p>
 	</section>
 </ul>
@@ -211,7 +209,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>December 3, 2019<br></b>
-		Content Delivery Networks and Virtualization<br>
+		TBA<br>
 		</p>
 	</section>
 </ul>

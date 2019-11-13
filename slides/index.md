@@ -161,7 +161,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 14, 2019<br></b>
-		Content Distribution Networks and Security
+		Security in Scalable Internet Systems
 		</p>
 	</section>
 </ul>
@@ -181,7 +181,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 21, 2019<br></b>
-		Systems of Intelligence
+		Intelligent Systems
 		</p>
 	</section>
 </ul>
@@ -219,7 +219,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>December 5, 2019<br></b>
-		Course conclusion<br>
+		CDNs and Course conclusion<br>
 		</p>
 	</section>
 </ul>

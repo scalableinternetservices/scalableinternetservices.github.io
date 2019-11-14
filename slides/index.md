@@ -161,7 +161,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 14, 2019<br></b>
-		Security in Scalable Internet Systems
+		<a href="lecture_2019_11_14.pdf">Secure Internet Systems</a><br>
 		</p>
 	</section>
 </ul>

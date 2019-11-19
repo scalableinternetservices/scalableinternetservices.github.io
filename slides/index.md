@@ -151,7 +151,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 12, 2019<br></b>
-		Guest Lecture: DC Posch, Serverless Computing with Lambda <br>
+		<a href="lecture_2019_11_12.pdf">Guest Lecture: DC Posch, Serverless Computing</a><br>
 		</p>
 	</section>
 </ul>
@@ -169,8 +169,8 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 19, 2019<br></b>
+		<a href="lecture_2019_11_19.pdf">HTTP/2 and QUIC</a><br>
 		Pre-reading: Chapter 12 in High Performance Browser Networking<br>
-		HTTP/2 and QUIC <br>
 		</p>
 	</section>
 </ul>

@@ -181,7 +181,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>November 21, 2019<br></b>
-		Intelligent Systems
+		<a href="lecture_2019_11_21.pdf">Scalable Intelligent Systems</a><br>
 		</p>
 	</section>
 </ul>

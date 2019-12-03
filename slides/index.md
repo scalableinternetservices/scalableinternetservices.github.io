@@ -209,6 +209,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>December 3, 2019<br></b>
+		<a href="lecture_2019_12_03.pdf">CDNs and Course Conclusion</a><br>
 		TBA<br>
 		</p>
 	</section>
@@ -219,7 +220,7 @@ showinnav: true
 	<section>
 		<p>
 		<b>December 5, 2019<br></b>
-		CDNs and Course conclusion<br>
+		Student Presentations<br>
 		</p>
 	</section>
 </ul>
